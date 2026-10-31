@@ -1,0 +1,742 @@
+{
+ "model": "qwen2.5:0.5b",
+ "encounter_id": "D2N076",
+ "n_segments": 83,
+ "segments": [
+  {
+   "id": 1,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hello ."
+  },
+  {
+   "id": 2,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "hi ."
+  },
+  {
+   "id": 3,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i'm dr. [NAME] , one of the kidney doctors . it's good to meet you guys ."
+  },
+  {
+   "id": 4,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "it's nice to meet you also ."
+  },
+  {
+   "id": 5,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah . so i was reading about this syndrome that i actually have never heard of ."
+  },
+  {
+   "id": 6,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "yeah , me too ."
+  },
+  {
+   "id": 7,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i do n't think it's very common ."
+  },
+  {
+   "id": 8,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "definitely not . it's c- pretty rare ."
+  },
+  {
+   "id": 9,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so-"
+  },
+  {
+   "id": 10,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "can you start at the beginning ? i know she's a twin , so are these your first two babies ?"
+  },
+  {
+   "id": 11,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "no , i have a son also who is nine . he also has autism ."
+  },
+  {
+   "id": 12,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay ."
+  },
+  {
+   "id": 13,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "and when the twins were born , [NAME] , she was about 4 pounds , 8 ounces . and her twin was a bit smaller , at 3 pounds , 13 ounces ."
+  },
+  {
+   "id": 14,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "[NAME] , she was doing fine . she just had problems with eating , where she would stop breathing when she was eating ."
+  },
+  {
+   "id": 15,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "like preemie type stuff ?"
+  },
+  {
+   "id": 16,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "uh- . yeah . she just had a hard time regulating her temperature , but she did fine . she does have a gi doctor , because she has reflex really bad . she also had a dietician , who told us to take her off cow's milk ."
+  },
+  {
+   "id": 17,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "which we did . and then she has seen an allergist , and also a neurologist ... who diagnosed her with this syndrome , because she still does n't walk and she was n't sitting by herself a year old ."
+  },
+  {
+   "id": 18,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah ."
+  },
+  {
+   "id": 19,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "but so now she is crawling and she is trying to take steps , so think she's doing pretty good ."
+  },
+  {
+   "id": 20,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "good . is she in therapy ?"
+  },
+  {
+   "id": 21,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "she is in therapy . she's in feeding therapy , occupational therapy , and also physical therapy ."
+  },
+  {
+   "id": 22,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "awesome . okay ."
+  },
+  {
+   "id": 23,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "and we also have speech therapy , who is going to be starting within the next couple of weeks ."
+  },
+  {
+   "id": 24,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "that's great ."
+  },
+  {
+   "id": 25,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "so , she has a lot of therapies . we have also seen an orthopedic and an ophthalmologist . i can never say that . we have seen everything , really ."
+  },
+  {
+   "id": 26,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "and audiology too , right ?"
+  },
+  {
+   "id": 27,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "yes ."
+  },
+  {
+   "id": 28,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah , wow. ."
+  },
+  {
+   "id": 29,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "yeah , it has definitely been a whirlwind of stuff . when we saw the geneticist , she told us that sometimes people with this syndrome , they have trouble with their kidneys . that they might actually fuse into one ."
+  },
+  {
+   "id": 30,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "she also said sometimes they have problems with their legs , so that was why we saw ortho ."
+  },
+  {
+   "id": 31,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . okay ."
+  },
+  {
+   "id": 32,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "so we have seen everybody , really . we are just here to make sure that her kidneys are looking good right now ."
+  },
+  {
+   "id": 33,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah , okay . so , um , tell me about how many wet diapers she has in a 24 hour period ?"
+  },
+  {
+   "id": 34,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "she has a lot ."
+  },
+  {
+   "id": 35,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so like normal 8 to 10 , or like 20 ?"
+  },
+  {
+   "id": 36,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "yeah , it's around 8 to 10 ."
+  },
+  {
+   "id": 37,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . great ."
+  },
+  {
+   "id": 38,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "yeah , she seems to pee a lot , and it feels like she drinks a lot too ."
+  },
+  {
+   "id": 39,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "that's perfect ."
+  },
+  {
+   "id": 40,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "and she used to only drink milk , and then i took her off dairy milk . so when i say milk , i actually mean , you know , ripple pea protein milk ."
+  },
+  {
+   "id": 41,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "sure , yeah ."
+  },
+  {
+   "id": 42,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "so i give her that milk , water now that she's used to it , and sometimes water with just a little bit of juice . so i do feel like she's drinking a lot better now ."
+  },
+  {
+   "id": 43,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "that's great . and she's how old now ?"
+  },
+  {
+   "id": 44,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "she'll be two mo- two next month ."
+  },
+  {
+   "id": 45,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . is her twin a boy or a girl ?"
+  },
+  {
+   "id": 46,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "she's a girl ."
+  },
+  {
+   "id": 47,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , and how's she doing ?"
+  },
+  {
+   "id": 48,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "she's doing really good . she's running around , and she does n't have any problems ."
+  },
+  {
+   "id": 49,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . is she bigger than her or the same size ?"
+  },
+  {
+   "id": 50,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "they're about the same size . they're able to wear the same clothes , so ..."
+  },
+  {
+   "id": 51,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay ."
+  },
+  {
+   "id": 52,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "i do n't even think she's a pound hav- heavier , actually ."
+  },
+  {
+   "id": 53,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah . yeah ."
+  },
+  {
+   "id": 54,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "but she is a little bit taller than her ... um , [NAME] . she's just sh- a little shorter and chunkier , but i think that's a part of her syndrome ."
+  },
+  {
+   "id": 55,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah . yeah , i was reading all the things associated with the syndrome . it sounds like we're looking for continual- congenital anomalies wi- of the kidney and urinary tract . which is basically something is wrong with the plumbing ."
+  },
+  {
+   "id": 56,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "okay ."
+  },
+  {
+   "id": 57,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so the only way to know that , is to do a kidney ultrasound ."
+  },
+  {
+   "id": 58,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "okay , that sounds okay ."
+  },
+  {
+   "id": 59,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . let me put that into the system , and then downstairs they can do the ultrasound ."
+  },
+  {
+   "id": 60,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "all right , thank you ."
+  },
+  {
+   "id": 61,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , yeah . where do you all live ?"
+  },
+  {
+   "id": 62,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "uh , we live in dallas ."
+  },
+  {
+   "id": 63,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . anybody in the family with kidney failure , dialysis or transplant ?"
+  },
+  {
+   "id": 64,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "no ."
+  },
+  {
+   "id": 65,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . so let's get your ultrasound done , and we'll see how it goes ."
+  },
+  {
+   "id": 66,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "all right , that sounds good ."
+  },
+  {
+   "id": 67,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . let me take a quick look at her ."
+  },
+  {
+   "id": 68,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "sure ."
+  },
+  {
+   "id": 69,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . please use my physical exam template . um , i wan na take a quick listen to her heart and lungs . i'll look in her ears too . and she can sit , she can just sit on your lap ."
+  },
+  {
+   "id": 70,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "okay ."
+  },
+  {
+   "id": 71,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . that's it ."
+  },
+  {
+   "id": 72,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "all right , that was n't too bad ."
+  },
+  {
+   "id": 73,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hmm . so , let's complete the ultrasound today . i'll call you with the results . if it's normal , you wo n't need to see me again , but if it's abnormal , you can see me in kennesaw ."
+  },
+  {
+   "id": 74,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "okay , that sounds good ."
+  },
+  {
+   "id": 75,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . we'll determine what the next steps are if there are any , after we see her results ."
+  },
+  {
+   "id": 76,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "all right , sounds good . thank you ."
+  },
+  {
+   "id": 77,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "you're welcome . the nurse will be in to have you complete some paperwork , and give you instructions for the ultrasound . we'll talk soon ."
+  },
+  {
+   "id": 78,
+   "start": null,
+   "end": null,
+   "speaker": "patient_guest",
+   "text": "all right . thank you , and have a good day ."
+  },
+  {
+   "id": 79,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "you too ."
+  },
+  {
+   "id": 80,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . physical exams show the well-nourished female , who is slightly fussy when examined . eyes are small appearing . she has mild hypotonia of the lower extremities in her arms . normal external female genitalia ."
+  },
+  {
+   "id": 81,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "assessment and plan . [NAME] is a 22-month-old former 34 and 3-week-old , twin with smith magenis syndrome . several organ systems can be affected by this chromosomal deletion syndrome . congenital anomalies of the kidney and urinary tract have been reported in the literature ."
+  },
+  {
+   "id": 82,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "we will obtain the screening of the kidneys by ultrasound today . if there are abnormalities on the kidney ultrasound , we will determine next steps and future follow-up . the family lives in dallas , [NAME] , so her follow-up should be at the town center location ."
+  },
+  {
+   "id": 83,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "end of recording ."
+  }
+ ],
+ "redactions": 6,
+ "reference_redacted": {
+  "subjective": "Renal screening tests.\n\n[NAME] is a 22-month-old female, born at 34 weeks +3 days gestation, diagnosed with the rare Smith-Magenis syndrome and associated global developmental delays. She was referred to nephrology by genetics who recommended renal screening tests. At birth, the patient weighed 4 pounds 8 ounces, exhibited difficulties during eating where she would stop breathing, and challenges regulating her body temperature; determined to be typical issues associated with premature birth. The patient has seen many specialists, including GI for severe reflux, a dietitian who recommended discontinuing consumption of cow\u2019s milk, and a neurologist who diagnosed her with Smith-Magenis syndrome. Additionally, she has been seen by a geneticist, orthopedist, ophthalmologist, and audiologist. The patient is not ambulatory, did not sit up unassisted until 1 years old, and is currently crawling and attempting to take steps. She will be starting speech therapy in the next few weeks, and currently she is in occupational, feeding, and physical therapy. The geneticist informed the patient's mother that patients with Smith-Magenis syndrome usually have kidney issues where \u201cthe kidneys fuse into one\u201d and issues with their legs.\n\nThe patient has approximately 8 to 10 wet diapers in a 24-hour period. Her mother notes that she is doing better with drinking fluids and she urinates \u201ca lot\u201d. The patient drinks Ripple Pea Protein milk instead of cow\u2019s milk, water and water mixed with a small amount of juice. Her twin sister is approximately the same size, and their weight is essentially the same, she is healthy, and the mom denies any known health concerns or diagnoses. The mom states that [NAME] is shorter and seems chubbier related to her syndrome. She also has a 9-year-old brother who is diagnosed with autism.\n\nTwin gestation. Birth weight 4 pounds 8 ounces.\n\nMedical\nSmith-Magenis syndrome.\n\nPatient accompanied to appointment by her mother.\nSibling: 9-year-old brother and twin sister.\n\nBrother: 9 years old, positive for autism.\nTwin sister: absence of Smith-Magenis syndrome, no known health conditions.\nNo known family history of genetic conditions, kidney failure, dialysis, or kidney transplant.",
+  "objective": "Constitutional\nWell-nourished female, slightly fussy when examined.\n\nEyes\nPresences of microphthalmia.\n\nGenitourinary\nNormal external female genitalia.\n\nMusculoskeletal\nExtremities: Presence of mild hypotonia of lower extremities and the arms.",
+  "assessment": "\u2022 Smith-Magenis syndrome.\n[NAME] is a 22-month-old former 34+3-week-old twin with Smith-Magenis syndrome.\nSeveral organ systems can be affected by this chromosomal deletion syndrome and congenital anomalies of the kidney and urinary tract have been reported in the literature.",
+  "plan": "We will obtain a kidney ultrasound screening today. If there are abnormalities on the kidney ultrasound, we will determine the next steps and future follow-up. The family lives in Dallas, [NAME], so her follow-up should be at the Town Center location.\n\nComplete ultrasound today. I will call patient with results and possible next steps."
+ },
+ "ok": true,
+ "note": {
+  "subjective": [
+   {
+    "text": "the patient reports that they had never heard about this syndrome before",
+    "evidence": [],
+    "unsupported": false
+   },
+   {
+    "text": "they mention having twins, one being their first two babies",
+    "evidence": [],
+    "unsupported": false
+   },
+   {
+    "text": "they describe the twins' birth weight and size",
+    "evidence": [],
+    "unsupported": false
+   }
+  ],
+  "objective": [
+   {
+    "text": "to understand the patient's medical history",
+    "evidence": [
+     10,
+     16,
+     47,
+     59,
+     60,
+     61,
+     62,
+     63,
+     64,
+     65
+    ],
+    "unsupported": true
+   },
+   {
+    "text": "to assess the patient's current health status",
+    "evidence": [
+     1,
+     2,
+     3,
+     8,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
+    "unsupported": true
+   },
+   {
+    "text": "to evaluate the patient's symptoms and physical findings",
+    "evidence": [
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "unsupported": true
+   },
+   {
+    "text": "to determine the diagnosis of the syndrome",
+    "evidence": [],
+    "unsupported": false
+   }
+  ],
+  "assessment": [
+   {
+    "text": "the patient has a twin with Smith-Magenis syndrome",
+    "evidence": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "they describe the patient as having mild hypotonia in their lower extremities",
+    "evidence": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "they mention that the patient is using an external female genitalia",
+    "evidence": [],
+    "unsupported": false
+   }
+  ],
+  "plan": [
+   {
+    "text": "perform kidney ultrasound to evaluate the kidneys and urinary tract",
+    "evidence": [
+     1,
+     2
+    ],
+    "unsupported": true
+   },
+   {
+    "text": "obtain screening results for the kidneys by ultrasound today if abnormalities are found",
+    "evidence": [],
+    "unsupported": false
+   },
+   {
+    "text": "determine next steps based on the findings of the kidney ultrasound",
+    "evidence": [],
+    "unsupported": false
+   },
+   {
+    "text": "send the physical exam template with the results back to the doctor",
+    "evidence": [],
+    "unsupported": false
+   },
+   {
+    "text": "schedule follow-up appointments at the town center location in Dallas",
+    "evidence": [],
+    "unsupported": false
+   }
+  ]
+ },
+ "attempts": 1,
+ "error": null,
+ "duration_s": 133.8
+}

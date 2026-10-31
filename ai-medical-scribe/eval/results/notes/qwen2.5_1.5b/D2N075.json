@@ -1,0 +1,540 @@
+{
+ "model": "qwen2.5:1.5b",
+ "encounter_id": "D2N075",
+ "n_segments": 68,
+ "segments": [
+  {
+   "id": 1,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "next is [NAME] , uh , date of birth is [ID] . she has a past medical history of uterine fibroids and anemia . she's a new patient with a referral from the er of esophagitis ."
+  },
+  {
+   "id": 2,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "um , i reviewed our records from the er , including the normal cardiac workup , and we're about to go in and see her now . good morning . you miss [NAME] ?"
+  },
+  {
+   "id": 3,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "good morning . yes . that's me ."
+  },
+  {
+   "id": 4,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hey , i'm dr. [NAME] . it's nice to meet you ."
+  },
+  {
+   "id": 5,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "nice to meet you too ."
+  },
+  {
+   "id": 6,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so tell me about what brings you in today ?"
+  },
+  {
+   "id": 7,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "well , i really needed to see you three months ... three months ago , but this was your first available appointment ."
+  },
+  {
+   "id": 8,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "when i called to make the appointment , i was having chest pains , but it stopped after four days , and i have n't had any since then ."
+  },
+  {
+   "id": 9,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . when did these four days of chest pain occur ?"
+  },
+  {
+   "id": 10,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "um , early october ."
+  },
+  {
+   "id": 11,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "of 2020 , correct ?"
+  },
+  {
+   "id": 12,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yes ."
+  },
+  {
+   "id": 13,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . can you think of anything that might have caused the chest pain ? did you wake up with it ?"
+  },
+  {
+   "id": 14,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no . it just it randomly . i tolerated it for four days but then had to go to the emergency room because nothing i did relieved it . they did a bunch of testing and did n't find anything ."
+  },
+  {
+   "id": 15,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . can you point to the area of your chest where the pain was located ?"
+  },
+  {
+   "id": 16,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "well , it was here in the center of my chest , right behind my breastbone . it felt like i was having a heart attack . the pain was really sharp ."
+  },
+  {
+   "id": 17,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "did they prescribe you any medications in the er ?"
+  },
+  {
+   "id": 18,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no . they ran an ekg and did blood tests , but like i said , everything was normal ."
+  },
+  {
+   "id": 19,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . i see ."
+  },
+  {
+   "id": 20,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "they thought it was something to do with the gi system , so that's why they referred me here ."
+  },
+  {
+   "id": 21,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "interesting . uh , do you remember having any heartburn or indigestion at , at the time ?"
+  },
+  {
+   "id": 22,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "uh , maybe . i do n't think i've ever had heartburn , so i'm not sure what that feels like ."
+  },
+  {
+   "id": 23,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "was the pain worse with eating or exercise ?"
+  },
+  {
+   "id": 24,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yes . with eating ."
+  },
+  {
+   "id": 25,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . any difficulty swallowing ?"
+  },
+  {
+   "id": 26,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm . i did ."
+  },
+  {
+   "id": 27,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . and that's also resolved since the initial episode three months ago ?"
+  },
+  {
+   "id": 28,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yes . thankfully . the chest pain and swallowing problem got better about three days after i went to the er . but i just feel like there's something wrong ."
+  },
+  {
+   "id": 29,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . so how has your weight been ."
+  },
+  {
+   "id": 30,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i've been trying to lose weight ."
+  },
+  {
+   "id": 31,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "that's good . any in- ... issues with abdominal pain ?"
+  },
+  {
+   "id": 32,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "uh , no ."
+  },
+  {
+   "id": 33,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . good . and how about your bowel movements ; are they okay ?"
+  },
+  {
+   "id": 34,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "they're normal ."
+  },
+  {
+   "id": 35,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . are you aware of any family history of gi problems ?"
+  },
+  {
+   "id": 36,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i do n't think so ."
+  },
+  {
+   "id": 37,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "have had you had any surgeries on your abdomen , or gall bladder , or appendix ?"
+  },
+  {
+   "id": 38,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yes . they took my gall bladder out several years ago ."
+  },
+  {
+   "id": 39,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . if you wan na lay down here on the table for me and lets take a look at you ."
+  },
+  {
+   "id": 40,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay ."
+  },
+  {
+   "id": 41,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so when i push on your lower belly , do you have any pain , or does it feel tender ?"
+  },
+  {
+   "id": 42,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no ."
+  },
+  {
+   "id": 43,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . how about up here in your upper abdomen ?"
+  },
+  {
+   "id": 44,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yes . it , it hurts a little ."
+  },
+  {
+   "id": 45,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . and even when i press lightly like this ?"
+  },
+  {
+   "id": 46,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yes . uh , just a little uncomfortable ."
+  },
+  {
+   "id": 47,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . does it hurt more when i press over here on the left or over here on the right ? or is it about the same ?"
+  },
+  {
+   "id": 48,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i'd say it's about the same ."
+  },
+  {
+   "id": 49,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . so we'll say you have some mild tenderness to light palpation in the upper abdominal quadrants , but everything on your exam looks normal and looks good ."
+  },
+  {
+   "id": 50,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay . good ."
+  },
+  {
+   "id": 51,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so let's talk about your symptoms real quick . obviously , with the chest discomfort , we worry about heart issues , but i'm reassured that those were ruled out with all the testing they did in the er ."
+  },
+  {
+   "id": 52,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "um , other potential causes could be anxiety , esophagitis , which is irritation of the esophagus . but typically with these , um ... but typically , these cause the pain that would last for a long time rather than that isolated incident like you had ."
+  },
+  {
+   "id": 53,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "um , it's also possible that you had intense heartburn for a few days ."
+  },
+  {
+   "id": 54,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "well , since you mention anxiety , i was going through a really stressful job transition right around the time this happened ."
+  },
+  {
+   "id": 55,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . that's good to know . so stress from this could be , um ... could be , uh ... could be very well have contributed to your condition ."
+  },
+  {
+   "id": 56,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay ."
+  },
+  {
+   "id": 57,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so we could do an , uh , egd or upper endoscopy to take a look at your esophagus and stomach . this would allow us to look for esophagitis ."
+  },
+  {
+   "id": 58,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "but your symptoms occurred three months ago and you have n't had any additional episodes , so likely if it were esophagitis , it's already healed by the point ... by this point , and we would n't be able to see anything ."
+  },
+  {
+   "id": 59,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "the other option is just to continue to monitor , uh , for any additional symptoms at which point we could do the egd . uh , with you being asymptomatic for so long right now , i'm comfortable with that option . but what do you think ?"
+  },
+  {
+   "id": 60,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i'd like to hold off on the egd and wait to see if i have more symptoms ."
+  },
+  {
+   "id": 61,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "that sounds good . um , so you can call the office if you have any additional episodes of pain or any other symptoms you're concerned about . if that happens , we'll get you scheduled for an egd to take a look ."
+  },
+  {
+   "id": 62,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "if not , you can follow up with me ... follow up with me as needed for any other gi complaints ."
+  },
+  {
+   "id": 63,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay ."
+  },
+  {
+   "id": 64,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right ? if you do n't have any questions for me , i'll walk you out to the check-out desk ."
+  },
+  {
+   "id": 65,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no . that's it . thank you ."
+  },
+  {
+   "id": 66,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "you're welcome . right this way . all right . uh , in assessment , please summarize the patient's history briefly , and let's list her possible etiologies such as , uh , gerd , dyspepsia , esophagitis , musculoskeletal etiologies , and anxiety ."
+  },
+  {
+   "id": 67,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "uh , suspect she had an anxiety attack related to her job transition , plus or minus a contribution from her musculoskeletal etiologies . um , in the plan , include our discussion of the egd versus monderning ... monitoring for symptom ."
+  },
+  {
+   "id": 68,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "patient elected to self-monitor her symptoms and will call with any reoccurrence or change . thanks ."
+  }
+ ],
+ "redactions": 4,
+ "reference_redacted": {
+  "subjective": "Esophagitis.\n\n[NAME] is a 53 y.o. female who presents to clinic today for a new patient evaluation of suspected esophagitis. The patient was referred from the emergency department where she was seen in early 10/2020 following 4 days of chest pain. The pain has resolved but she kept this appointment to discuss the original 4-day episode.\n\nThe patient describes her chest pain in early 10/2020 as sharp and localized behind the sternum. She states that it felt like a heart attack and the onset was sudden. The pain was exacerbated by eating and accompanied by dysphagia. The patient is not able to say whether she had heartburn as she has never experienced heartburn before and is unsure what it feels like. When asked about potential triggers, the patient identifies that she was experiencing a lot of stress at that time due to a job transition. She was able to tolerate the chest pain and dysphagia for 4 days but reports that nothing she tried relieved her symptoms. She then presented to the emergency department and underwent labs and EKG. All results came back normal from these tests. She was not prescribed any medications in the emergency department but was given a referral to me for suspected esophagitis. Her chest pain and dysphagia resolved spontaneously approximately 3 days after her emergency department visit and has not recurred.\n\nThe patient denies unintentional weight loss, weight gain, abdominal pain, constipation, and diarrhea. She states she is trying to lose weight.\n\nMedical\nUterine fibroids.\nAnemia.\n\nSurgical\nCholecystectomy.\n\nNone reported.\n\n\u2022\u202fCardiovascular:\u202f Positive for chest pain.\n\u2022\u202fGastrointestinal:\u202f Positive for difficulty swallowing.\n\u2022\u202fPsychiatric:\u202f Positive for stress.",
+  "objective": "Gastrointestinal\nMild tenderness to light palpation in the upper abdominal quadrants.\n\nThe patient\u2019s emergency department records from her 10/2020 visit were reviewed, including the normal cardiac workup.",
+  "assessment": "The patient presents today following a visit to the emergency department in early 10/2020 for 4-days of sharp chest pain, made worse by eating, and dysphagia. Notably, the patient was experiencing higher levels of stress than normal for her at that time due to a job transition. Her cardiac evaluation in the emergency department was normal and she was referred to me for suspected esophagitis. The patient\u2019s pain and associated dysphagia spontaneously resolved 3 days after her emergency department visit and has not recurred. Possible etiologies of her chest pain and dysphagia include GERD, dyspepsia, esophagitis, musculoskeletal etiologies, and anxiety. Based on her history today, I suspect she had an anxiety attack related to her job transition, plus or minus a contribution from musculoskeletal etiologies.\nNon-cardiac chest pain.\nSuspected etiology of anxiety with or without underlying musculoskeletal etiology.",
+  "plan": "\u2022 We discussed the role of an EGD in evaluating her prior symptoms. Given her current asymptomatic status, I am comfortable foregoing the EGD for now in lieu of continued monitoring for symptom recurrence. The patient agreed to notify my office if her symptoms return at which time, we could schedule the EGD. The patient is agreeable to this plan.\n\n\u2022 Self-monitor for symptom recurrence and notify my office if this occurs.\n\u2022 Follow up as needed."
+ },
+ "ok": true,
+ "note": {
+  "subjective": [
+   {
+    "text": "The patient reports chest pain, which stopped after four days but has not returned since.",
+    "evidence": [
+     1,
+     20
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "She was referred by ER due to esophageal irritation (esophagitis).",
+    "evidence": [
+     23,
+     45,
+     59
+    ],
+    "unsupported": false
+   }
+  ],
+  "objective": [],
+  "assessment": [
+   {
+    "text": "Suspect anxiety-related condition possibly exacerbated by muscle strain/musculoskeletal issues.",
+    "evidence": [
+     6,
+     15,
+     25,
+     37,
+     47,
+     55,
+     60
+    ],
+    "unsupported": false
+   }
+  ],
+  "plan": [
+   {
+    "text": "Patient elected to monitor symptoms at home; follow-up if symptomatic.",
+    "evidence": [
+     68
+    ],
+    "unsupported": false
+   }
+  ]
+ },
+ "attempts": 1,
+ "error": null,
+ "duration_s": 160.5
+}

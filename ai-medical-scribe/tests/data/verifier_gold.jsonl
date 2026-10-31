@@ -1,0 +1,40 @@
+{"segments": [{"speaker": "patient", "text": "my right knee has been hurting for about two weeks ."}], "section": "subjective", "text": "Right knee pain for two weeks", "label": "supported"}
+{"segments": [{"speaker": "patient", "text": "my right knee has been hurting for about two weeks ."}], "section": "subjective", "text": "Left knee pain for two weeks", "label": "unsupported"}
+{"segments": [{"speaker": "patient", "text": "my right knee has been hurting for about two weeks ."}], "section": "subjective", "text": "Right knee pain for two months", "label": "unsupported"}
+{"segments": [{"speaker": "doctor", "text": "any swelling in the knee ?"}, {"speaker": "patient", "text": "yes , it swells after i walk ."}], "section": "subjective", "text": "Knee swelling after walking", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "any swelling in the knee ?"}, {"speaker": "patient", "text": "no , not really ."}], "section": "subjective", "text": "Knee swelling after walking", "label": "unsupported"}
+{"segments": [{"speaker": "patient", "text": "i do n't smoke , never have ."}], "section": "subjective", "text": "Never smoker", "label": "supported"}
+{"segments": [{"speaker": "patient", "text": "i do n't smoke , never have ."}], "section": "subjective", "text": "Smokes one pack per day", "label": "unsupported"}
+{"segments": [{"speaker": "patient", "text": "i drink maybe a glass of wine on the weekends ."}], "section": "subjective", "text": "Occasional alcohol use on weekends", "label": "supported"}
+{"segments": [{"speaker": "patient", "text": "i've been taking lisinopril 20 mg every day ."}], "section": "subjective", "text": "Takes lisinopril 20 mg daily", "label": "supported"}
+{"segments": [{"speaker": "patient", "text": "i've been taking lisinopril 20 mg every day ."}], "section": "subjective", "text": "Takes lisinopril 40 mg daily", "label": "unsupported"}
+{"segments": [{"speaker": "patient", "text": "i'm allergic to penicillin , i get a rash ."}], "section": "subjective", "text": "Penicillin allergy causing rash", "label": "supported"}
+{"segments": [{"speaker": "patient", "text": "i'm allergic to penicillin , i get a rash ."}], "section": "subjective", "text": "No known drug allergies", "label": "unsupported"}
+{"segments": [{"speaker": "patient", "text": "i feel lightheaded every once in a while and i'm just so tired ."}], "section": "subjective", "text": "Intermittent lightheadedness and fatigue", "label": "supported"}
+{"segments": [{"speaker": "patient", "text": "i feel lightheaded every once in a while and i'm just so tired ."}], "section": "subjective", "text": "Reports chest pain at rest", "label": "unsupported"}
+{"segments": [{"speaker": "doctor", "text": "have you had any fevers or chills ?"}, {"speaker": "patient", "text": "no ."}], "section": "subjective", "text": "Denies fevers and chills", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "have you had any fevers or chills ?"}, {"speaker": "patient", "text": "no ."}], "section": "subjective", "text": "Reports fever", "label": "unsupported"}
+{"segments": [{"speaker": "doctor", "text": "your blood pressure today is 150 over 90 ."}], "section": "objective", "text": "Blood pressure 150/90", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "your blood pressure today is 150 over 90 ."}], "section": "objective", "text": "Blood pressure 120/80", "label": "unsupported"}
+{"segments": [{"speaker": "doctor", "text": "on exam there is mild effusion of the right knee and pain with flexion ."}], "section": "objective", "text": "Mild right knee effusion", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "on exam there is mild effusion of the right knee and pain with flexion ."}], "section": "objective", "text": "Pain with knee flexion", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "on exam there is mild effusion of the right knee and pain with flexion ."}], "section": "objective", "text": "Erythema over the right knee", "label": "unsupported"}
+{"segments": [{"speaker": "doctor", "text": "your lungs sound clear , heart has a regular rate and rhythm ."}], "section": "objective", "text": "Lungs clear to auscultation", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "your lungs sound clear , heart has a regular rate and rhythm ."}], "section": "objective", "text": "Crackles at lung bases", "label": "unsupported"}
+{"segments": [{"speaker": "doctor", "text": "the x-ray shows no fracture ."}], "section": "objective", "text": "X-ray negative for fracture", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "the x-ray shows no fracture ."}], "section": "objective", "text": "X-ray shows a hairline fracture", "label": "unsupported"}
+{"segments": [{"speaker": "doctor", "text": "i think this is a knee sprain ."}], "section": "assessment", "text": "Knee sprain", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "i think this is a knee sprain ."}], "section": "assessment", "text": "Meniscal tear", "label": "unsupported"}
+{"segments": [{"speaker": "doctor", "text": "your heart failure seems a bit worse , you're retaining some fluid ."}], "section": "assessment", "text": "Worsening heart failure with fluid retention", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "your heart failure seems a bit worse , you're retaining some fluid ."}], "section": "assessment", "text": "Heart failure is well controlled", "label": "unsupported"}
+{"segments": [{"speaker": "doctor", "text": "your diabetes is well controlled , your a1c was 6.5 ."}], "section": "assessment", "text": "Diabetes well controlled", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "your diabetes is well controlled , your a1c was 6.5 ."}], "section": "objective", "text": "Hemoglobin A1c 6.5", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "your diabetes is well controlled , your a1c was 6.5 ."}], "section": "objective", "text": "Hemoglobin A1c 8.2", "label": "unsupported"}
+{"segments": [{"speaker": "doctor", "text": "i want to increase your lasix to 80 mg once a day ."}], "section": "plan", "text": "Increase Lasix to 80 mg daily", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "i want to increase your lasix to 80 mg once a day ."}], "section": "plan", "text": "Increase Lasix to 40 mg twice daily", "label": "unsupported"}
+{"segments": [{"speaker": "doctor", "text": "let's get an x-ray of your knee and start ibuprofen 400 mg ."}], "section": "plan", "text": "Order knee x-ray", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "let's get an x-ray of your knee and start ibuprofen 400 mg ."}], "section": "plan", "text": "Start ibuprofen 400 mg", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "let's get an x-ray of your knee and start ibuprofen 400 mg ."}], "section": "plan", "text": "Order MRI of the knee", "label": "unsupported"}
+{"segments": [{"speaker": "doctor", "text": "i'll refer you to physical therapy and see you back in two weeks ."}], "section": "plan", "text": "Physical therapy referral", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "i'll refer you to physical therapy and see you back in two weeks ."}], "section": "plan", "text": "Follow up in two weeks", "label": "supported"}
+{"segments": [{"speaker": "doctor", "text": "i'll refer you to physical therapy and see you back in two weeks ."}], "section": "plan", "text": "Refer to orthopedic surgery", "label": "unsupported"}

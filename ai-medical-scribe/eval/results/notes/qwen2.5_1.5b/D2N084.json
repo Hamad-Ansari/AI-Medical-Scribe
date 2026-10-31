@@ -1,0 +1,354 @@
+{
+ "model": "qwen2.5:1.5b",
+ "encounter_id": "D2N084",
+ "n_segments": 40,
+ "segments": [
+  {
+   "id": 1,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "alright [NAME] so you were just in the emergency department hopefully you can hear me okay through the zoom meeting what happened"
+  },
+  {
+   "id": 2,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "well it seems that i was outside and i fell down i was walking a bit and i did have a pain in my chest but i did n't think anything of it and i just kept on going and then all of a sudden i'm here"
+  },
+  {
+   "id": 3,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hmmm my gosh so it looks like you you went into the er and looks like they said that your ankles were swelling a little bit too and did you have some shortness of breath"
+  },
+  {
+   "id": 4,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i did but i did n't think anything of it"
+  },
+  {
+   "id": 5,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "sure yeah okay yeah i know we've been talking through your hypertension looks like your blood pressure was two hundred over ninety have you been taking those meds that we have you on"
+  },
+  {
+   "id": 6,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i have but i miss them every year and then so i think today i took one"
+  },
+  {
+   "id": 7,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay alright yeah i have you on bumex cozaar and norvasc does that sound right"
+  },
+  {
+   "id": 8,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i guess so that sounds about right"
+  },
+  {
+   "id": 9,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "alright okay yeah you need to make sure that you're you're taking those consistently that's really important and i know that we talked a little bit about watching your diet how have you been doing with that"
+  },
+  {
+   "id": 10,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i've just been eating anything honestly i try to watch it here and there but to tell you the truth i'd looks i was eating"
+  },
+  {
+   "id": 11,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah i i know it's hard around the holidays and everything but it is really important that we watch that diet what kind of things are you eating is it is it salty foods or pizza chicken wing kinda stuff or what are you standing or"
+  },
+  {
+   "id": 12,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "little bit of everything here and there i do lot of chips"
+  },
+  {
+   "id": 13,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "sure"
+  },
+  {
+   "id": 14,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "they're pretty good i guess they're salty even though the light salt ones but"
+  },
+  {
+   "id": 15,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "mm-hmm"
+  },
+  {
+   "id": 16,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "kinda whatever i can get my hands on really"
+  },
+  {
+   "id": 17,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay alright how are you feeling right now"
+  },
+  {
+   "id": 18,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i'm doing a little okay i guess i'm just out of breath a little bit but it's nothing i ca n't handle"
+  },
+  {
+   "id": 19,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "sure yeah okay so you're taking your meds mostly we talked about getting you a blood pressure cuff at home did you end up getting one of those"
+  },
+  {
+   "id": 20,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no i have n't got one yet i know i needed to get one"
+  },
+  {
+   "id": 21,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah that's that will be good if you can take your blood pressures at home and definitely track those what about any problems with shortness of breath lately"
+  },
+  {
+   "id": 22,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "just like i said when i was walking outside it helped a little bit but again i just walked it off"
+  },
+  {
+   "id": 23,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "sure any problems sleeping"
+  },
+  {
+   "id": 24,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no i sleep like a rock"
+  },
+  {
+   "id": 25,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "good good to hear have you had any chest pain"
+  },
+  {
+   "id": 26,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "slightly here or there but i thought it was just heartburn"
+  },
+  {
+   "id": 27,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "sure okay alright let me do a quick physical exam your blood pressure is pretty good in the office today it looks like it's one twenty eight over seventy two your other vital signs look good on your neck exam there is no jugular venous distention on your heart exam just gon na take a listen here i do appreciate a two out of six systolic ejection murmur but i heard that before and that is stable your lungs you want to take a deep breath for me lungs are clear bilaterally now i know we talked about you stopping smoking a a couple of years ago i have here have you kept up with that"
+  },
+  {
+   "id": 28,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i've been pretty good on it very once every week maybe just one"
+  },
+  {
+   "id": 29,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay alright good to hear alright and your lower extremities show a trace edema so [NAME] i'm looking at your results of your echocardiogram that you got when you were in the er and it it does show preserved ejection fraction of fifty five percent and normal diastolic filling and mild to moderate mild to moderate mitral regurgitation so let me tell you about what that means for the chf that you were in the hospital with sounds like you know based on your diet this is likely caused by your dietary indiscretion and uncontrolled hypertension that we've been monitoring so what i want you to do is continue your bumex two milligrams once daily definitely stay on top of that make sure that you get those meds in every time i'm gon na write you a consult to nutrition since it sounds like maybe we can give you some advice on on watching your diet definitely watching the salty foods that you've been eating does that sound okay"
+  },
+  {
+   "id": 30,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "that sounds good document"
+  },
+  {
+   "id": 31,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "awesome weigh yourself daily do you have a scale at home"
+  },
+  {
+   "id": 32,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no but i can get one"
+  },
+  {
+   "id": 33,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay good get a scale weigh yourself daily call me if you gain three pounds in two days for the hypertension that we've been treating i want you to continue the cozaar one hundred milligrams daily continue the norvasc five milligrams once daily so i'll be written down in your discharge summary and i'm gon na order a test i'm gon na order a renal artery ultrasound just to make sure that we're not missing anything there does that sound good"
+  },
+  {
+   "id": 34,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "that sounds good to me"
+  },
+  {
+   "id": 35,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "great okay [NAME] do you have any other questions"
+  },
+  {
+   "id": 36,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no other questions at this time just i guess i just need to make sure to take my medication on time that's about it"
+  },
+  {
+   "id": 37,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah definitely take your medication on time and see that nutritionist and hopefully we can get your get your diet on track as well"
+  },
+  {
+   "id": 38,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i will do my best"
+  },
+  {
+   "id": 39,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "alright thanks hope you feel better"
+  },
+  {
+   "id": 40,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "thank you"
+  }
+ ],
+ "redactions": 3,
+ "reference_redacted": {
+  "subjective": "Follow up.\n\nThe patient has been trying to limit his tobacco use for 2 years. He reports smoking once every week.\n\nBumex 2 mg once daily.\nCozaar 100 mg daily.\nNorvasc 5 mg once daily.\n\nConstitutional: Denies problems sleeping.\nCardiovascular: Reports chest pain.\nRespiratory: Reports shortness of breath.\nMusculoskeletal: Reports bilateral ankle swelling.",
+  "objective": "Blood pressure is 128/72 mm Hg. Other vital signs are within normal limits.\n\nNeck\n- General Examination: No JVD\n\nRespiratory\n- Auscultation of Lungs: Clear bilaterally.\n\nCardiovascular\n- Auscultation of Heart: 2/6 stable systolic ejection murmur\n\nMusculoskeletal\n- Examination: Lower extremities show trace edema.\n\nAn echocardiogram, obtained at an outside facility, was reviewed today. It demonstrates a preserved ejection fraction of 55%. Normal diastolic filling. Mild to moderate mitral regurgitation.",
+  "assessment": "1. CHF.\n- Medical Reasoning: The patient\u2019s recent epsiode resulting in the emergency room visit was likely caused by his dietary indiscretion and uncontrolled hypertension that we have been monitoring.\n2. Hypertension.\n- Medical Reasoning: This is currently uncontrolled.\n3. Systolic ejection murmur.\n- Medical Reasoning. Stable.",
+  "plan": "- Patient Education and Counseling: I reviewed the echocardiogram results with the patient and discussed the importance of following dietary restrictions. I encouraged the patient to take his medication on a consistent basis. I advised him to purchase a scale to weigh himself daily.\n- Medical Treatment: He will continue Bumex 2 mg once daily. He was provided with a referral to a nutritionist in consultation for further assistance with his dietary requirements to lower his sodium intake.\n- Patient Education and Counseling: I explained the importance of taking his medication on a daily basis. I encouraged the patient to purchase a blood pressure cuff and track his blood pressures.\n- Medical Treatment: He will continue Cozaar 100 mg daily as well as the Norvasc 5 mg once daily. I will order a renal artery ultrasound for further evaluation.\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan.\n\nThe patient was instructed to call me if he gains 3 pounds in 2 days."
+ },
+ "ok": true,
+ "note": {
+  "subjective": [
+   {
+    "text": "The patient fell while walking outside, experiencing chest pain but did not think much of it.",
+    "evidence": [
+     1,
+     2
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "Patient has been taking medications consistently, including Bumex (Bumetanide) Cozaar (Losartan), and Norvasc (Amlodipine).",
+    "evidence": [
+     5,
+     6,
+     7
+    ],
+    "unsupported": false
+   }
+  ],
+  "objective": [],
+  "assessment": [
+   {
+    "text": "The patient is currently managing hypertension with current medications, but there are concerns regarding dietary intake leading to heart failure due to uncontrolled blood pressure.",
+    "evidence": [
+     17,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30
+    ],
+    "unsupported": false
+   }
+  ],
+  "plan": [
+   {
+    "text": "Continue medication regimen: Take bumex twice daily at 2 mg each time; continue cozaar one hundred milligrams once daily; continue norvasc five milligrams once daily.",
+    "evidence": [
+     31,
+     32,
+     34
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "Order a renal artery ultrasound for further evaluation. Consultation with nutritionist recommended.",
+    "evidence": [
+     33,
+     35
+    ],
+    "unsupported": false
+   }
+  ]
+ },
+ "attempts": 1,
+ "error": null,
+ "duration_s": 141.3
+}

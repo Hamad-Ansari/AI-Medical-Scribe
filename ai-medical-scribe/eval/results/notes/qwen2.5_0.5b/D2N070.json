@@ -1,0 +1,792 @@
+{
+ "model": "qwen2.5:0.5b",
+ "encounter_id": "D2N070",
+ "n_segments": 98,
+ "segments": [
+  {
+   "id": 1,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hi [NAME] . how are you ?"
+  },
+  {
+   "id": 2,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "hey , good to see you ."
+  },
+  {
+   "id": 3,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "it's good to see you as well ."
+  },
+  {
+   "id": 4,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so i know the nurse told you about dax ."
+  },
+  {
+   "id": 5,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 6,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i'd like to tell dax a little bit about you ."
+  },
+  {
+   "id": 7,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "sure ."
+  },
+  {
+   "id": 8,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so [NAME] is a 58 year old male , with a past medical history significant for diabetes type 2 , hypertension , osteoarthritis , who presents today with some back pain ."
+  },
+  {
+   "id": 9,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 10,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so [NAME] , what happened to your back ?"
+  },
+  {
+   "id": 11,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "uh , we were helping my daughter with some heavy equipment and lifted some boxes a little too quickly , and they were a little too heavy ."
+  },
+  {
+   "id": 12,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay ... and did you strain your back , did something-"
+  },
+  {
+   "id": 13,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i thought i heard a pop when i moved and i had to lie down for about an hour before it actually relieved the pain . and then it's been a little stiff ever since . and this was- what , so today's tuesday . this was saturday morning ."
+  },
+  {
+   "id": 14,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , all right ."
+  },
+  {
+   "id": 15,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "and is it your lower back , your upper back ?"
+  },
+  {
+   "id": 16,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "my lower back ."
+  },
+  {
+   "id": 17,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "your lower back , okay . and what- what have you taken for the pain ?"
+  },
+  {
+   "id": 18,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i took some tylenol , i took some ibuprofen , i used a little bit of icy heat on the spot but it really did n't seem to help ."
+  },
+  {
+   "id": 19,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . and um ... do you have any numbing or tingling in your legs ?"
+  },
+  {
+   "id": 20,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "uh ... i felt some tingling in my toes on my right foot until about sunday afternoon . and then that seemed to go away ."
+  },
+  {
+   "id": 21,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , and is there a position that you feel better in ?"
+  },
+  {
+   "id": 22,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "uh ... it's really tough to find a comfortable spot sleeping at night . i would- i tend to lie on my right side and that seemed to help a little bit ?"
+  },
+  {
+   "id": 23,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , all right ."
+  },
+  {
+   "id": 24,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "well , um ... so how are you doing otherwise ? i know that , you know , we have some issues to talk-"
+  },
+  {
+   "id": 25,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 26,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": ". about today . were you able to take any vacations over the summer ?"
+  },
+  {
+   "id": 27,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "um ... some long weekends , which was great . just kind of- trying to mix it up through the summer . so lots of three day weekends ."
+  },
+  {
+   "id": 28,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , well i'm glad to hear that ."
+  },
+  {
+   "id": 29,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "um ... so let's talk a little bit about your diabetes . how are you doing with that ? i know that- you know , i remember you have a sweet tooth . so ..."
+  },
+  {
+   "id": 30,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah ... i-i love peanut butter cups . um ... and i have to say that when we were helping my daughter , we were on the fly and on the go and haven't had a home cooked meal in weeks, our diets were less than stellar ."
+  },
+  {
+   "id": 31,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "and uh ... i-i think i need to go clean for a couple of weeks . but other than that , it was been- it's been pretty good eating ."
+  },
+  {
+   "id": 32,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , all right . and how about your high blood pressure ? are you monitoring your blood pressure readings at home , like i recommended ?"
+  },
+  {
+   "id": 33,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i'm good about it during the week while i am at home working, but on the weekends when i'm out of the house i tend to forget . uh , and so it's not as regimented , but it's been pretty good and-and under control for the most part ."
+  },
+  {
+   "id": 34,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , and you're you're taking your medication ?"
+  },
+  {
+   "id": 35,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yes , i am ."
+  },
+  {
+   "id": 36,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . and then lastly , i know that you had had some early arthritis in your knee . how- how are you doing with that ?"
+  },
+  {
+   "id": 37,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "uh ... it gets aggravated every once in a while . if i- maybe if i run too much or if i've lift boxes that are a little too heavy , i start to feel the strain . but it's been okay ."
+  },
+  {
+   "id": 38,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "not great , but it's been okay ."
+  },
+  {
+   "id": 39,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . all right , well ... let me go ahead and- you know , i know that the nurse did a review of systems sheet with you when you- when you checked in . i know that you were endorsing the back pain ."
+  },
+  {
+   "id": 40,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "have you had any other symptoms , chest pain , nausea or vomiting-"
+  },
+  {
+   "id": 41,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no ."
+  },
+  {
+   "id": 42,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": ". fever , chills ?"
+  },
+  {
+   "id": 43,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no . no none whatsoever ."
+  },
+  {
+   "id": 44,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "no . okay . all right , well let me go ahead , i want to do a quick physical exam ."
+  },
+  {
+   "id": 45,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 46,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hey dragon ? show me the blood pressure ."
+  },
+  {
+   "id": 47,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so it's a little elevated . your blood pressure's a little elevated here in the office , but you know you could be in some pain , which could make your-"
+  },
+  {
+   "id": 48,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 49,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": ". blood pressure go up . let's look at the readings ."
+  },
+  {
+   "id": 50,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hey dragon ? show me the blood pressure readings ."
+  },
+  {
+   "id": 51,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah ... yeah you know they do run a little bit on the high side , so we'll have to address that as well ."
+  },
+  {
+   "id": 52,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 53,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , well . let me- i'm just going to be listening your heart and your lungs and i'll check out your back and i'll let you know what i find , okay ?"
+  },
+  {
+   "id": 54,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "sure ."
+  },
+  {
+   "id": 55,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "and kick against my hands ."
+  },
+  {
+   "id": 56,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , good . all right ."
+  },
+  {
+   "id": 57,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , so ... on physical examination , you know , i-i do hear a slight 2 out of 6 s- s- systolic heart murmur ."
+  },
+  {
+   "id": 58,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 59,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "on your heart exam . which you've had in the past ."
+  },
+  {
+   "id": 60,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 61,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so that sounds stable to me ."
+  },
+  {
+   "id": 62,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "on your back exam , you know , you do have some pain to palpation of the lumbar spine . and you have pain with flexion and extension of the back . and you have a negative straight leg raise , which is which is good ."
+  },
+  {
+   "id": 63,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so , let's- let's just look at some of your results , okay ?"
+  },
+  {
+   "id": 64,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 65,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hey dragon ? show me the diabetes labs ."
+  },
+  {
+   "id": 66,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , so ... in reviewing the results of your diabetes labs , your hemoglobin a1c is a little elevated at eight . i'd like to see it a little bit better , okay ?"
+  },
+  {
+   "id": 67,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "sure ."
+  },
+  {
+   "id": 68,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hey dragon ? show me the back x-ray ."
+  },
+  {
+   "id": 69,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so in reviewing the results of your back x-ray , this looks like a normal x-ray . there's good bony alignment , there's normal uh- there's no fracture present . uh , so this is a normal x-ray of your back , which is not surprising based on-"
+  },
+  {
+   "id": 70,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 71,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": ". the history , okay ?"
+  },
+  {
+   "id": 72,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 73,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so let's just go ahead and we'll- we're going to go over , you know , my assessment and my plan for you ."
+  },
+  {
+   "id": 74,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so for your first problem , your back pain . you know , i think you have a lumbar strain from the lifting . so , let's go ahead . we can prescribe you some meloxicam 15 mg once a day ."
+  },
+  {
+   "id": 75,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 76,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i want you to continue to ice it , okay . i want you to try to avoid any strenuous activity and we can go ahead and- and refer you to physical therapy-"
+  },
+  {
+   "id": 77,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 78,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": ". and see how you do , okay ?"
+  },
+  {
+   "id": 79,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "you got it ."
+  },
+  {
+   "id": 80,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "for your next problem , your diabetes . y-you know , i think it's a little under- out of control . so i want to increase the metformin to 1000 mg twice a day . and i'm going to um ... um ..."
+  },
+  {
+   "id": 81,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i'm going to repeat a hemoglobin a1c in about 6 months , okay ?"
+  },
+  {
+   "id": 82,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 83,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hey dragon ? order a hemoglobin a1c ."
+  },
+  {
+   "id": 84,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so , for your third problem , your hypertension . uh ... i-i'd like to go ahead increase the lisinopril from 10 mg to 20 mg a day ."
+  },
+  {
+   "id": 85,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 86,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "does that sound okay ? i think we need to get it under better control ."
+  },
+  {
+   "id": 87,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no that's fine . i agree ."
+  },
+  {
+   "id": 88,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hey dragon ? order lisinopril 20 mg daily ."
+  },
+  {
+   "id": 89,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "and for your last problem , your osteoarthritis , i-i think that you were doing a really good job , in terms of you know what , monitoring your knee and uh ..."
+  },
+  {
+   "id": 90,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 91,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i do n't think we need to do any- any further , you know , work up of that at this time , okay ?"
+  },
+  {
+   "id": 92,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 93,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "do you have any questions [NAME] ?"
+  },
+  {
+   "id": 94,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "not at this point ."
+  },
+  {
+   "id": 95,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . all right ."
+  },
+  {
+   "id": 96,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so the nurse will come in to help you get checked out , okay ?"
+  },
+  {
+   "id": 97,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "you got it ."
+  },
+  {
+   "id": 98,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hey dragon ? finalize the note ."
+  }
+ ],
+ "redactions": 4,
+ "reference_redacted": {
+  "subjective": "Back pain.\n\nMr. [NAME] is a 58-year-old male with a past medical history significant for diabetes type 2, hypertension, and osteoarthritis, who presents today with back pain.\n\nMr. [NAME] reports that he was helping his daughter move some heavy equipment and lifted some heavy boxes a little too quickly on Saturday. He thought he heard a pop when he moved and he had to lie down for about an hour before his pain resolved. He has had stiffness ever since. The pain is located in his lower back. He took Tylenol, ibuprofen, and used Icy Hot on the area, but it did not seem to help. The patient endorses some tingling in his toes on his right foot, which resolved Sunday afternoon. He finds it difficult to find a comfortable position to sleep at night, and he tends to lie on his right side, which seems to help a little bit.\n\nRegarding his diabetes type 2, Mr. [NAME] reports that he has not cooked a meal at home in weeks, due to travel. He notes that his diet has not been great, and he thinks he needs to eat clean for a couple of weeks.\n\nHe monitors his blood pressure at home and it is under control for the most part.\n\nRegarding his osteoarthritis, Mr. [NAME] reports occasional aggravation of his knee when he runs too much or lifts boxes that are too heavy.\n\nThe patient denies chest pain, nausea, vomiting, fevers, and chills.\n\n\u2022 Constitutional: Denies fevers, chills.\n\u2022 Cardiovascular: Denies chest pain.\n\u2022 Musculoskeletal: Endorses back pain and stiffness. Endorses knee pain with exertion.\n\u2022 Neurological: Endorsed tingling in toes until Sunday, denies tingling today.",
+  "objective": "\u2022 Cardiovascular: Slight 2/6 systolic ejection murmur.\n\u2022 Musculoskeletal: Pain to palpation of the lumbar spine. Pain with flexion and extension of the back. Negative straight leg raise.\n\n\u2022 Blood Pressure: Elevated\n\nHemoglobin A1c is elevated at 8.\n\nX-ray of the back is unremarkable. Normal bony alignment. No fracture present.",
+  "assessment": "Mr. [NAME] is a 58-year-old male with a past medical history significant for diabetes type 2, hypertension, and osteoarthritis, who presents today with low back pain.\nLumbar strain.\n\u2022 Medical Reasoning: He injured his lower back while moving heavy boxes. His recent x-ray was unremarkable.\nDiabetes type 2.\n\u2022 Medical Reasoning: His recent hemoglobin A1c was elevated at 8. He does admit to some dietary indiscretion lately.\nHypertension.\n\u2022 Medical Reasoning: His blood pressures have been slightly elevated based on home monitoring and in clinic today.\nOsteoarthritis.\n\u2022 Medical Reasoning: This is mostly well controlled.",
+  "plan": "\u2022 Medical Treatment: Initiate meloxicam 15 mg once a day.\n\u2022 Specialist Referrals: Referral to physical therapy.\n\u2022 Patient Education and Counseling: He was encouraged to continue icing the area and avoid strenuous activity.\n\u2022 Additional Testing: Repeat hemoglobin A1c in 6 months.\n\u2022 Medical Treatment: Increase metformin to 1000 mg twice a day.\n\u2022 Medical Treatment: Increase lisinopril from 10 mg to 20 mg a day.\n\u2022 Medical Treatment: Continue to monitor the knee. No further work up is needed at this time.\nPatient Agreements: The patient understands and agrees with the recommended medical treatment plan."
+ },
+ "ok": true,
+ "note": {
+  "subjective": [
+   {
+    "text": "the patient reports symptoms such as back pain, tingling in toes on one foot, stiffness after lying down",
+    "evidence": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "the patient mentions a history of diabetes mellitus type 2 and hypertension",
+    "evidence": [
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20
+    ],
+    "unsupported": true
+   }
+  ],
+  "objective": [],
+  "assessment": [
+   {
+    "text": "back pain - lumbar strain from lifting heavy equipment",
+    "evidence": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "diabetes mellitus - past medical history significant for diabetes type 2, hypertension, osteoarthritis, back pain",
+    "evidence": [
+     31,
+     32,
+     33,
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40
+    ],
+    "unsupported": true
+   },
+   {
+    "text": "osteoporosis - no specific symptoms mentioned",
+    "evidence": [
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50
+    ],
+    "unsupported": false
+   }
+  ],
+  "plan": []
+ },
+ "attempts": 1,
+ "error": null,
+ "duration_s": 123.2
+}
