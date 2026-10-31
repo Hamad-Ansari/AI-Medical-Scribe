@@ -1,0 +1,438 @@
+{
+ "model": "qwen2.5:1.5b",
+ "encounter_id": "D2N072",
+ "n_segments": 53,
+ "segments": [
+  {
+   "id": 1,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hi , ms. [NAME] . i'm dr. [NAME] . how are you ?"
+  },
+  {
+   "id": 2,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "hi , dr. [NAME] ."
+  },
+  {
+   "id": 3,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "is your , is your right finger hurting ?"
+  },
+  {
+   "id": 4,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yes ."
+  },
+  {
+   "id": 5,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . hey , dragon , uh , [NAME] is a 48 year old female here for right finger pain . all right . so , tell me what happened ."
+  },
+  {
+   "id": 6,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "well , i was skiing over the weekend-"
+  },
+  {
+   "id": 7,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay ."
+  },
+  {
+   "id": 8,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": ". and as i was , um , coming down the hill , i tried moguls , which jumping over those big hills , i tend to get my strap caught on my finger-"
+  },
+  {
+   "id": 9,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": ". and it kind of bent it back a bit ."
+  },
+  {
+   "id": 10,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay ."
+  },
+  {
+   "id": 11,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah ."
+  },
+  {
+   "id": 12,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "and when did this happen ?"
+  },
+  {
+   "id": 13,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "it happened , uh ... that was sunday ."
+  },
+  {
+   "id": 14,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . and have you tried anything for this or anything made it better or worse ?"
+  },
+  {
+   "id": 15,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i tried , um , putting ice on it ."
+  },
+  {
+   "id": 16,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay ."
+  },
+  {
+   "id": 17,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "uh , and then i- i've been taking ibuprofen , but it's still very painful ."
+  },
+  {
+   "id": 18,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . and , uh , is it worse when you bend it ? or anything make it ... so , just wh-"
+  },
+  {
+   "id": 19,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah , movement ."
+  },
+  {
+   "id": 20,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay ."
+  },
+  {
+   "id": 21,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yes ."
+  },
+  {
+   "id": 22,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . so , it sounds like you were skiing about four about days ago and you went over a mogul and got it hyper extended or got it bent backwards a little bit , ? okay . do you have any other past medical history at all ?"
+  },
+  {
+   "id": 23,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "um , i have been suffering from constipation recently ."
+  },
+  {
+   "id": 24,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . all right . and do you take ... what medicines do you take for constipation ?"
+  },
+  {
+   "id": 25,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "um , i've just been taking , um , mel- um ..."
+  },
+  {
+   "id": 26,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "miralax ?"
+  },
+  {
+   "id": 27,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "miralax . that's it ."
+  },
+  {
+   "id": 28,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . miralax is sufficient ."
+  },
+  {
+   "id": 29,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "miralax . yes ."
+  },
+  {
+   "id": 30,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "and any surgeries in the past ?"
+  },
+  {
+   "id": 31,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i did have my appendix taken out when i was 18 ."
+  },
+  {
+   "id": 32,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . let's do your exam . uh , so , it's this finger right here . and does it hurt here on your , on this joint up here ?"
+  },
+  {
+   "id": 33,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no ."
+  },
+  {
+   "id": 34,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . and how'bout right there ? no ?"
+  },
+  {
+   "id": 35,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no ."
+  },
+  {
+   "id": 36,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "right here ?"
+  },
+  {
+   "id": 37,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "that hurts ."
+  },
+  {
+   "id": 38,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . uh , can you bend your finger for me ?"
+  },
+  {
+   "id": 39,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah ."
+  },
+  {
+   "id": 40,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . and how about extend it ? all right . and can you touch your thumb with it ?"
+  },
+  {
+   "id": 41,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yes ."
+  },
+  {
+   "id": 42,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . so , on exam , you do have some tenderness over your distal phalanx , which is the tip of your finger . there is , uh , some tenderness over that joint itself ."
+  },
+  {
+   "id": 43,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i do n't feel any tenderness over your proximal joint or your metacarpophalangeal joint , which is right above your knuckle . uh , you have some pain flexion as well . so , let's look at your x-rays . hey , dragon , show me the x-rays ."
+  },
+  {
+   "id": 44,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . so , on this x-ray. everything looks normal right now . uh , i do n't see any fractures . everything lines up pretty well . uh , so , your x-ray looks normal with no fractures ."
+  },
+  {
+   "id": 45,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so , based on the x-ray and your exam , you have some tenderness right here . i think you've got a little contusion right here . there's no fracture on the tip of your finger ."
+  },
+  {
+   "id": 46,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "uh , so , the diagnosis would be a right hand , uh , index finger contusion on the tip of your finger , okay ? so , i would recommend we get you a s- uh , aluminum foam splint and we'll get you some motrin ."
+  },
+  {
+   "id": 47,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "uh , we'll give you 600 milligrams every six hours and we'll take that for about a week . and if it does n't get better , why do n't you call us and come back at that point ?"
+  },
+  {
+   "id": 48,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay ."
+  },
+  {
+   "id": 49,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . do you have any questions ?"
+  },
+  {
+   "id": 50,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no . i think that sounds good ."
+  },
+  {
+   "id": 51,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . hey , dragon , order the medication and procedures we discussed . all right . and why do n't you come with me and we'll get you signed out ."
+  },
+  {
+   "id": 52,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay . thank you ."
+  },
+  {
+   "id": 53,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . finalize report , dragon ."
+  }
+ ],
+ "redactions": 4,
+ "reference_redacted": {
+  "subjective": "Right finger pain.\n\nMs. [NAME] is a 48-year-old female who presents today for an evaluation of right finger pain. She states she was skiing on Sunday and hyperextended her finger when it became caught in a strap on a jump. She has tried applying ice and taking Ibuprofen, but it is still very painful. She has pain with movement.\n\nMiraLax\n\nConstipation.\n\nAppendectomy.",
+  "objective": "Examination of the right index finger shows tenderness over the distal phalanx. No tenderness over the proximal phalanx or the MP joint. Pain with flexion.\n\nX-rays of the right hand show no obvious signs of fracture or bony abnormalities.",
+  "assessment": "Right hand index finger contusion at the tip of the finger.",
+  "plan": "At this point, I discussed the diagnosis and treatment options with the patient. I have recommended a splint. She will take Motrin 600 mg every 6 hours for a week. If she does not improve, she will follow up with me. All questions were answered."
+ },
+ "ok": true,
+ "note": {
+  "subjective": [
+   {
+    "text": "The patient reports pain in her right finger after skiing over the weekend.",
+    "evidence": [
+     1,
+     2,
+     3
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "She has been experiencing constipation recently due to taking Miralax.",
+    "evidence": [
+     23,
+     24,
+     25
+    ],
+    "unsupported": false
+   }
+  ],
+  "objective": [],
+  "assessment": [
+   {
+    "text": "Diagnosis: Right hand index finger contusion on the tip of the finger",
+    "evidence": [
+     46
+    ],
+    "unsupported": false
+   }
+  ],
+  "plan": [
+   {
+    "text": "Order aluminum foam splint and Motrin (600 mg every six hours) for a week.",
+    "evidence": [
+     47
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "Refer back if symptoms do not improve within one week.",
+    "evidence": [
+     47
+    ],
+    "unsupported": false
+   }
+  ]
+ },
+ "attempts": 1,
+ "error": null,
+ "duration_s": 97.6,
+ "infra_error": false
+}

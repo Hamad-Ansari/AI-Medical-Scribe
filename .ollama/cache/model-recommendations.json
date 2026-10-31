@@ -1,0 +1,89 @@
+{
+  "recommendations": [
+    {
+      "model": "glm-5.3-flash:cloud",
+      "description": "Fast reasoning for coding and agentic workloads with 1M context and native image understanding",
+      "context_length": 1048576,
+      "max_output_tokens": 1048576,
+      "required_plan": "pro",
+      "thinking": {
+        "values": [
+          "low",
+          "high",
+          "max"
+        ],
+        "default": "max"
+      }
+    },
+    {
+      "model": "kimi-k3:cloud",
+      "description": "Long-horizon agentic reasoning with multimodal tool use",
+      "context_length": 1048576,
+      "max_output_tokens": 1048576,
+      "required_plan": "pro",
+      "thinking": {
+        "values": [
+          false,
+          "low",
+          "high",
+          "max"
+        ],
+        "default": "max"
+      }
+    },
+    {
+      "model": "deepseek-v4.1-flash:cloud",
+      "description": "Fast coding and agentic tool use with 1M context and native image understanding",
+      "context_length": 1048576,
+      "max_output_tokens": 393216,
+      "required_plan": "pro",
+      "thinking": {
+        "values": [
+          false,
+          "low",
+          "high",
+          "max"
+        ],
+        "default": "high"
+      }
+    },
+    {
+      "model": "qwen3.5:4b",
+      "description": "Compact multimodal reasoning and tool use",
+      "vram_bytes": 6000000000,
+      "thinking": {
+        "values": [
+          false,
+          true
+        ],
+        "default": true
+      }
+    },
+    {
+      "model": "gemma4:12b",
+      "description": "Agentic workflows and multimodal reasoning",
+      "vram_bytes": 11000000000,
+      "thinking": {
+        "values": [
+          false,
+          true
+        ],
+        "default": false
+      }
+    },
+    {
+      "model": "qwen3.8:27b",
+      "description": "Coding, research, and long-horizon agentic tasks",
+      "vram_bytes": 28000000000,
+      "thinking": {
+        "values": [
+          false,
+          "low",
+          "medium",
+          "xhigh"
+        ],
+        "default": "xhigh"
+      }
+    }
+  ]
+}

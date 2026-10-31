@@ -1,0 +1,423 @@
+{
+ "model": "qwen2.5:1.5b",
+ "encounter_id": "D2N082",
+ "n_segments": 53,
+ "segments": [
+  {
+   "id": 1,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "alright"
+  },
+  {
+   "id": 2,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "you're ready just"
+  },
+  {
+   "id": 3,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "ready"
+  },
+  {
+   "id": 4,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "hi [NAME] how are you today"
+  },
+  {
+   "id": 5,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i'm doing well i'm just anxious about my pcp told me that i had some abnormal lab work and why she wanted me to be seen by you today"
+  },
+  {
+   "id": 6,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah i bet that did make you nervous i i see that she referred you for a low immunoglobulin a level is that your understanding"
+  },
+  {
+   "id": 7,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah i mean i do n't even really understand what that means but yeah that's what she told me"
+  },
+  {
+   "id": 8,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah that's a mouthful"
+  },
+  {
+   "id": 9,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah"
+  },
+  {
+   "id": 10,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "it it's the the one of the antibodies in your body and that that really makes that your body makes to fight infections it's a little bit low i'm happy to explain it a little bit more to you i just have a few more questions okay so let's start again here"
+  },
+  {
+   "id": 11,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i'll do this"
+  },
+  {
+   "id": 12,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i i think i would break that"
+  },
+  {
+   "id": 13,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah i just saw that"
+  },
+  {
+   "id": 14,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "if you can do that"
+  },
+  {
+   "id": 15,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay"
+  },
+  {
+   "id": 16,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah so we'll we'll just"
+  },
+  {
+   "id": 17,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay"
+  },
+  {
+   "id": 18,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "you can leave it the way it is for now i just i think break that up"
+  },
+  {
+   "id": 19,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay alright so yeah that sounds fine for me"
+  },
+  {
+   "id": 20,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah i do you know why she checked these levels in the first place that you've been having problems getting frequent infections"
+  },
+  {
+   "id": 21,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah yeah i had a recent physical and she did this as part of her my physical i do tend to get infections but i do n't know i i'm so used to it so i do n't know if this is more than usual in the wintertime i get a lot of colds and they do seem to i always say that my colds kind of linger for a long time but i do n't know if it's more than usual"
+  },
+  {
+   "id": 22,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay how about any abdominal infections"
+  },
+  {
+   "id": 23,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "diarrhea no"
+  },
+  {
+   "id": 24,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "frequently"
+  },
+  {
+   "id": 25,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "no not that i can not that i say can think of"
+  },
+  {
+   "id": 26,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay what about your family are are anyone in your family that you know have immune deficiencies"
+  },
+  {
+   "id": 27,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "no my family is actually pretty healthy"
+  },
+  {
+   "id": 28,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay and how about do you have any other medical conditions"
+  },
+  {
+   "id": 29,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah my pcp just started me on metformin i just got diagnosed with type two diabetes"
+  },
+  {
+   "id": 30,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay okay yeah diabetes your family your family owns that donut shop right i mean down at the end of the street"
+  },
+  {
+   "id": 31,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yes and that's probably part of the cause of my diabetes yes"
+  },
+  {
+   "id": 32,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah well i guess you're gon na have to watch that"
+  },
+  {
+   "id": 33,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i know i know"
+  },
+  {
+   "id": 34,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "but you know everything in moderation i mean just you know you just need to be careful you ca n't does n't have to go away"
+  },
+  {
+   "id": 35,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "right"
+  },
+  {
+   "id": 36,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "but have you ever needed to receive a blood transfusion or blood products"
+  },
+  {
+   "id": 37,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "no i actually tried to give blood but they i did n't qualify because i had recently traveled internationally"
+  },
+  {
+   "id": 38,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay where did you go"
+  },
+  {
+   "id": 39,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i was in zambia"
+  },
+  {
+   "id": 40,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "hmmm i heard that's beautiful"
+  },
+  {
+   "id": 41,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "it's so beautiful it's so beautiful i had a great time"
+  },
+  {
+   "id": 42,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay well let me let me go ahead and do a physical examination here i reviewed your vitals you know that the the assistants collected when you first came in including your weight and everything looks good there there is no fever there there is nothing that i'm concerned about there now on your heart exam you have a nice regular rate and rhythm and i do n't appreciate any murmurs that's kind of those extra sounds that i would hear and that that all sounds good on lungs lung exam your lungs are clear there's no wheezes rales or rhonchi now on your neck exam i do n't appreciate any lymph lymphadenopathy swollen lymph glands and then let me just go ahead and i wan na press on your belly a little bit is that tender anywhere that i press it does n't seem like you making any facial"
+  },
+  {
+   "id": 43,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "no"
+  },
+  {
+   "id": 44,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no okay so your you know your abdominal exam is your belly is soft there is no tenderness as i i push around there now i did review the results of your recent lab work and it is consistent as as your pcp noted with an iga deficiency that's that immunoglobulin a that we talked about so let me tell you a little bit about the assessment and plan so for your first problem the that a iga deficiency is it very common immunodeficiency your your body makes many different types of antibodies in one of your z iga is just a little bit lower than normal now most of the time people live their entire life without even knowing they have that deficiency and function perfectly normal now some people may find that they get tend to get frequent respiratory tract or sinus or abdominal infections but this does n't necessarily seem to be the case for you now it can go along with other immunodeficiencies but i think there is a low likelihood hood in your case but we're gon na order some additional blood work that includes checking those other antibodies now do you have any questions on what i just told you"
+  },
+  {
+   "id": 45,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah so is there anything i need to do or should be watching for or should i be worried"
+  },
+  {
+   "id": 46,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no i i really do n't think you need to be worried now we're gon na check these additional studies and that will give us some more guidance but really i think this is just a finding that's common to you and you know it it's many people have have have these type of you know immunodeficiency what i want you to watch for is those infections that do n't stop you have trouble getting it under control or you know any changes to your abdominal tract you know severe diarrhea"
+  },
+  {
+   "id": 47,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "anything like that then you know we may want to look at it a little bit further but for now i do n't think there is anything significant we want to do now go ahead and get your lab work and"
+  },
+  {
+   "id": 48,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "bring you in for that now the only other thing that i would say is if you eat end up needing any blood products between now and when i see you next make sure you tell them that you have that iga deficiency"
+  },
+  {
+   "id": 49,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "why is that"
+  },
+  {
+   "id": 50,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "well there is a risk that your body can strongly react to some blood products and they just need to know that so they're prepared so anytime you get blood just make sure you say that you have a history of a an an iga deficiency"
+  },
+  {
+   "id": 51,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay okay thank you"
+  },
+  {
+   "id": 52,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "you're welcome"
+  },
+  {
+   "id": 53,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay"
+  }
+ ],
+ "redactions": 1,
+ "reference_redacted": {
+  "subjective": "[NAME] is a pleasant 46-year-old male who presents to the clinic today for evaluation of low immunoglobulin A level. He was referred to our offices by his primary care physician after routine labs revealed abnormalities. The patient states he has been experiencing frequent infections. During the winter months, he experiences frequent colds that tend to linger, however this is not uncommon for him. The patient denies abdominal issues or diarrhea.\n\nThe patient was recently diagnosed with type 2 diabetes. He is currently taking metformin.\n\nPatient denies a history of blood transfusions.\n\nHe recently traveled internationally on a trip to Zambia. His family owns a local doughnut shop.\n\nPatient denies a family history of immune deficiencies.\n\nGastrointestinal: Denies abdominal issues or diarrhea.",
+  "objective": "Temperature: Normal.\nAll other vitals were reviewed and are within normal limits.\n\nNECK: No swelling noted. No lymphadenopathy.\nCV: Normal heart rhythm with no murmurs.\nRESPIRATORY: Lungs are clear. There's no wheezes, rales, or rhonchi.\nGastrointestinal: Abdomen is soft and without tenderness.\n\nI did review the results of her recent lab work. It is consistent as her primary care physician noted with an IgA deficiency.",
+  "assessment": "IgA deficiency.",
+  "plan": "After reviewing the patient's examination today, I have had a lengthy discussion with the patient in regards to his current symptoms. I have explained to him that the results of his recent lab work is consistent with an IgA deficiency. I have recommended that we obtain additional blood work to check his other antibodies. I encouraged the patient to be aware of lingering infections or abdominal changes including diarrhea. If he experiences these issues, he should report them to my office so we may investigate further, however I do not believe there is a need for that at this time. In the meantime, he should report this IgA deficiency in the event that he needs any blood transfusions. Questions were invited and answered today."
+ },
+ "ok": true,
+ "note": {
+  "subjective": [
+   {
+    "text": "I'm anxious about my PCP's referral.",
+    "evidence": [
+     6,
+     7
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "The patient has been having frequent infections due to low immunoglobulin A levels.",
+    "evidence": [
+     20,
+     21
+    ],
+    "unsupported": false
+   }
+  ],
+  "objective": [],
+  "assessment": [
+   {
+    "text": "IGA (Immunoglobulin A) deficiency with occasional respiratory tract or sinus infections but no significant abdominal issues.",
+    "evidence": [
+     28,
+     30,
+     31,
+     32
+    ],
+    "unsupported": false
+   }
+  ],
+  "plan": []
+ },
+ "attempts": 1,
+ "error": null,
+ "duration_s": 133.1
+}

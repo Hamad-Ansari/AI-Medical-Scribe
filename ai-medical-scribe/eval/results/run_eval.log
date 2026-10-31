@@ -1,0 +1,122 @@
+[gen] qwen2.5:0.5b    1/20 D2N068   101.8s  6 lines
+[gen] qwen2.5:0.5b    2/20 D2N069    71.9s  10 lines
+[gen] qwen2.5:0.5b    3/20 D2N070   123.2s  5 lines
+[gen] qwen2.5:0.5b    4/20 D2N071   102.1s  12 lines
+[gen] qwen2.5:0.5b    5/20 D2N072    73.8s  10 lines
+[gen] qwen2.5:0.5b    6/20 D2N073    88.4s  10 lines
+[gen] qwen2.5:0.5b    7/20 D2N074   126.3s  9 lines
+[gen] qwen2.5:0.5b    8/20 D2N075   102.2s  8 lines
+[gen] qwen2.5:0.5b    9/20 D2N076   133.8s  15 lines
+[gen] qwen2.5:0.5b   10/20 D2N077   180.4s  17 lines
+[gen] qwen2.5:0.5b   11/20 D2N078    90.3s  12 lines
+[gen] qwen2.5:0.5b   12/20 D2N079    55.7s  5 lines
+[gen] qwen2.5:0.5b   13/20 D2N080   108.2s  12 lines
+[gen] qwen2.5:0.5b   14/20 D2N081    95.1s  13 lines
+[gen] qwen2.5:0.5b   15/20 D2N082    89.1s  8 lines
+[gen] qwen2.5:0.5b   16/20 D2N083    82.6s  12 lines
+[gen] qwen2.5:0.5b   17/20 D2N084   119.2s  32 lines
+[gen] qwen2.5:0.5b   18/20 D2N085    76.8s  18 lines
+[gen] qwen2.5:0.5b   19/20 D2N086   125.4s  17 lines
+[gen] qwen2.5:0.5b   20/20 D2N087   118.1s  5 lines
+[gen] qwen2.5:1.5b    1/19 D2N069   129.4s  5 lines
+[gen] qwen2.5:1.5b    2/19 D2N070     6.2s  FAILED
+[gen] qwen2.5:1.5b    3/19 D2N071   390.8s  11 lines
+[gen] qwen2.5:1.5b    4/19 D2N072     0.3s  FAILED
+[gen] qwen2.5:1.5b    5/19 D2N073   165.6s  3 lines
+[gen] qwen2.5:1.5b    6/19 D2N074     0.2s  FAILED
+[gen] qwen2.5:1.5b    7/19 D2N075   160.5s  4 lines
+[gen] qwen2.5:1.5b    8/19 D2N076     0.2s  FAILED
+[gen] qwen2.5:1.5b    9/19 D2N077   214.4s  6 lines
+[gen] qwen2.5:1.5b   10/19 D2N078     0.2s  FAILED
+[gen] qwen2.5:1.5b   11/19 D2N079   157.1s  6 lines
+[gen] qwen2.5:1.5b   12/19 D2N080     0.3s  FAILED
+[gen] qwen2.5:1.5b   13/19 D2N081   189.0s  FAILED
+[gen] qwen2.5:1.5b   14/19 D2N082   133.1s  3 lines
+[gen] qwen2.5:1.5b   15/19 D2N083     0.2s  FAILED
+[gen] qwen2.5:1.5b   16/19 D2N084   141.3s  5 lines
+[gen] qwen2.5:1.5b   17/19 D2N085     0.2s  FAILED
+[gen] qwen2.5:1.5b    1/11 D2N070   301.8s  11 lines
+[gen] qwen2.5:1.5b    2/11 D2N072    97.6s  5 lines
+[gen] qwen2.5:1.5b    3/11 D2N074   154.0s  3 lines
+[gen] qwen2.5:1.5b    4/11 D2N076   203.9s  3 lines
+[gen] qwen2.5:1.5b D2N078: Ollama runner crashed, retrying (1/2)
+[gen] qwen2.5:1.5b    5/11 D2N078   125.1s  3 lines
+[gen] qwen2.5:1.5b    6/11 D2N080   206.6s  10 lines
+[gen] qwen2.5:1.5b    7/11 D2N081   203.9s  10 lines
+[gen] qwen2.5:1.5b    8/11 D2N083   137.2s  7 lines
+[gen] qwen2.5:1.5b D2N085: Ollama runner crashed, retrying (1/2)
+[gen] qwen2.5:1.5b    9/11 D2N085   127.7s  10 lines
+[gen] qwen2.5:1.5b   10/11 D2N086   222.8s  17 lines
+[gen] qwen2.5:1.5b   11/11 D2N087   240.6s  5 lines
+[score] qwen2.5:0.5b   D2N068  items= 6 invented= 0 missing=32/38 rougeL=0.063
+[score] qwen2.5:0.5b   D2N069  items=10 invented= 4 missing=16/17 rougeL=0.262
+[score] qwen2.5:0.5b   D2N070  items= 5 invented= 2 missing=39/40 rougeL=0.156
+[score] qwen2.5:0.5b   D2N071  items=12 invented= 4 missing=29/38 rougeL=0.291
+[score] qwen2.5:0.5b   D2N072  items=10 invented= 4 missing= 8/13 rougeL=0.369
+[score] qwen2.5:0.5b   D2N073  items=10 invented= 2 missing=19/21 rougeL=0.136
+[score] qwen2.5:0.5b   D2N074  items= 9 invented= 1 missing=41/44 rougeL=0.209
+[score] qwen2.5:0.5b   D2N075  items= 8 invented= 2 missing=30/32 rougeL=0.211
+[score] qwen2.5:0.5b   D2N076  items=15 invented= 6 missing=28/29 rougeL=0.319
+[score] qwen2.5:0.5b   D2N077  items=17 invented= 0 missing=48/49 rougeL=0.179
+[score] qwen2.5:0.5b   D2N078  items=12 invented= 4 missing=16/18 rougeL=0.177
+[score] qwen2.5:0.5b   D2N079  items= 5 invented= 2 missing=24/31 rougeL=0.202
+[score] qwen2.5:0.5b   D2N080  items=12 invented= 2 missing=31/31 rougeL=0.117
+[score] qwen2.5:0.5b   D2N081  items=13 invented= 5 missing=25/29 rougeL=0.361
+[score] qwen2.5:0.5b   D2N082  items= 8 invented= 4 missing=23/25 rougeL=0.277
+[score] qwen2.5:0.5b   D2N083  items=12 invented= 2 missing=17/20 rougeL=0.346
+[score] qwen2.5:0.5b   D2N084  items=32 invented=13 missing=15/27 rougeL=0.418
+[score] qwen2.5:0.5b   D2N085  items=18 invented= 2 missing=15/20 rougeL=0.451
+[score] qwen2.5:0.5b   D2N086  items=17 invented= 4 missing=55/57 rougeL=0.288
+[score] qwen2.5:0.5b   D2N087  items= 5 invented= 2 missing=35/35 rougeL=0.143
+[score] qwen2.5:1.5b   D2N068  items= 7 invented= 2 missing=35/38 rougeL=0.155
+[score] qwen2.5:1.5b   D2N069  items= 5 invented= 1 missing=14/17 rougeL=0.350
+[score] qwen2.5:1.5b   D2N070  items=11 invented= 5 missing=39/40 rougeL=0.269
+[score] qwen2.5:1.5b   D2N071  items=11 invented= 5 missing=34/38 rougeL=0.315
+[score] qwen2.5:1.5b   D2N072  items= 5 invented= 0 missing= 8/13 rougeL=0.311
+[score] qwen2.5:1.5b   D2N073  items= 3 invented= 2 missing=16/21 rougeL=0.162
+[score] qwen2.5:1.5b   D2N074  items= 3 invented= 2 missing=41/44 rougeL=0.071
+[score] qwen2.5:1.5b   D2N075  items= 4 invented= 0 missing=30/32 rougeL=0.110
+[score] qwen2.5:1.5b   D2N076  items= 3 invented= 0 missing=29/29 rougeL=0.160
+[score] qwen2.5:1.5b   D2N077  items= 6 invented= 0 missing=49/49 rougeL=0.090
+[score] qwen2.5:1.5b   D2N078  items= 3 invented= 0 missing=17/18 rougeL=0.125
+[score] qwen2.5:1.5b   D2N079  items= 6 invented= 3 missing=26/31 rougeL=0.233
+[score] qwen2.5:1.5b   D2N080  items=10 invented= 3 missing=26/31 rougeL=0.313
+[score] qwen2.5:1.5b   D2N081  items=10 invented= 1 missing=14/29 rougeL=0.401
+[score] qwen2.5:1.5b   D2N082  items= 3 invented= 1 missing=23/25 rougeL=0.125
+[score] qwen2.5:1.5b   D2N083  items= 7 invented= 1 missing=13/20 rougeL=0.294
+[score] qwen2.5:1.5b   D2N084  items= 5 invented= 1 missing=27/27 rougeL=0.261
+[score] qwen2.5:1.5b   D2N085  items=10 invented= 1 missing=19/20 rougeL=0.407
+[score] qwen2.5:1.5b   D2N086  items=17 invented= 7 missing=48/57 rougeL=0.275
+[score] qwen2.5:1.5b   D2N087  items= 5 invented= 2 missing=30/35 rougeL=0.223
+
+
+## Note quality on ACI-Bench `valid` (20 cases)
+
+| Model | Valid notes | Lines/note | Invented facts | Missing facts | Verifier red / amber / green | Gen. time |
+|---|---|---|---|---|---|---|
+| qwen2.5:0.5b | 20/20 | 11.8 | 65/236 (28%) | 546/614 (89%) | 85% / 11% / 5% | 103 s |
+| qwen2.5:1.5b | 20/20 | 6.70 | 37/134 (28%) | 538/614 (88%) | 71% / 8% / 21% | 185 s |
+
+**ROUGE-L (F1)** per section
+
+| Model | S | O | A | P | Whole note |
+|---|---|---|---|---|---|
+| qwen2.5:0.5b | 0.150 | 0.120 | 0.170 | 0.148 | 0.249 |
+| qwen2.5:1.5b | 0.166 | 0.036 | 0.213 | 0.178 | 0.232 |
+
+**BERTScore F1 (rescaled, `distilbert-base-uncased`)** per section
+
+| Model | S | O | A | P | Whole note |
+|---|---|---|---|---|---|
+| qwen2.5:0.5b | 0.252 | 0.161 | 0.278 | 0.239 | 0.319 |
+| qwen2.5:1.5b | 0.325 | 0.048 | 0.331 | 0.279 | 0.341 |
+
+**Missing facts by section** (share of reference sentences not covered)
+
+| Model | S | O | A | P |
+|---|---|---|---|---|
+| qwen2.5:0.5b | 87% | 87% | 92% | 92% |
+| qwen2.5:1.5b | 85% | 93% | 87% | 86% |
+
+Invented = note line not entailed by any transcript passage; missing = reference sentence not entailed by the generated note (local NLI, threshold 0.5). Automatic estimates, not clinician review.
+

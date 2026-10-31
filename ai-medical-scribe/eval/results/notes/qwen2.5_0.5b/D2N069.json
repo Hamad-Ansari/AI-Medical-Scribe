@@ -1,0 +1,511 @@
+{
+ "model": "qwen2.5:0.5b",
+ "encounter_id": "D2N069",
+ "n_segments": 54,
+ "segments": [
+  {
+   "id": 1,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hi , ms. [NAME] . i'm dr. [NAME] . how are you ?"
+  },
+  {
+   "id": 2,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "hi , dr. [NAME] ."
+  },
+  {
+   "id": 3,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hi ."
+  },
+  {
+   "id": 4,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i'm doing okay except for my knee ."
+  },
+  {
+   "id": 5,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right , hey , dragon , ms. [NAME] is a 43 year old female here for right knee pain . so tell me what happened with your knee ?"
+  },
+  {
+   "id": 6,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "well , i was , um , trying to change a light bulb , and i was up on a ladder and i kinda had a little bit of a stumble and kinda twisted my knee as i was trying to catch my fall ."
+  },
+  {
+   "id": 7,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . and did you injure yourself any place else ?"
+  },
+  {
+   "id": 8,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no , no . it just seems to be the knee ."
+  },
+  {
+   "id": 9,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . and when did this happen ?"
+  },
+  {
+   "id": 10,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "it was yesterday ."
+  },
+  {
+   "id": 11,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . and , uh , where does it hurt mostly ?"
+  },
+  {
+   "id": 12,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "it hurts like in , in , in the inside of my knee ."
+  },
+  {
+   "id": 13,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay ."
+  },
+  {
+   "id": 14,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "right here ."
+  },
+  {
+   "id": 15,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . and anything make it better or worse ?"
+  },
+  {
+   "id": 16,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i have been putting ice on it , uh , and i've been taking ibuprofen , but it does n't seem to help much ."
+  },
+  {
+   "id": 17,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . so it sounds like you fell a couple days ago , and you've hurt something inside of your right knee ."
+  },
+  {
+   "id": 18,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "mm-hmm ."
+  },
+  {
+   "id": 19,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "and you've been taking a little bit of ice , uh , putting some ice on it , and has n't really helped and some ibuprofen . is that right ?"
+  },
+  {
+   "id": 20,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "that's right . yeah ."
+  },
+  {
+   "id": 21,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , let's review your past history for a second . it looks like , uh , do you have any other past medical history ?"
+  },
+  {
+   "id": 22,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "uh , afib ."
+  },
+  {
+   "id": 23,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , and are you taking any medications for that ?"
+  },
+  {
+   "id": 24,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah , i am . um , begins with a d."
+  },
+  {
+   "id": 25,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "uh , digoxin ?"
+  },
+  {
+   "id": 26,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "that's it . yeah , that's it ."
+  },
+  {
+   "id": 27,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , all right . how about any surgeries in the past ?"
+  },
+  {
+   "id": 28,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i have had a nose job ."
+  },
+  {
+   "id": 29,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . um , let's do your exam , okay ? so is it tender ... where is it mostly tender right now ?"
+  },
+  {
+   "id": 30,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "right on the inside of my knee . right here ."
+  },
+  {
+   "id": 31,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right , so if i bend your knee forward , does that seem to hurt ?"
+  },
+  {
+   "id": 32,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yes , that hurts ."
+  },
+  {
+   "id": 33,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right , how about if i twist it a little bit that way ."
+  },
+  {
+   "id": 34,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "that hurts a lot ."
+  },
+  {
+   "id": 35,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay , okay . and how about down here ? do you feel me touch you down here ?"
+  },
+  {
+   "id": 36,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yes ."
+  },
+  {
+   "id": 37,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . any other pain down here in your calves ?"
+  },
+  {
+   "id": 38,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no ."
+  },
+  {
+   "id": 39,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "no , okay . so on exam you do have some tenderness over the medial portion of your knee over the medial meniscus area ."
+  },
+  {
+   "id": 40,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "uh , there is no , uh , there is a little bit of tenderness when i flex your , uh , when i , uh , uh , do some valgus stressing on your , on your leg . um , you have normal sensation ."
+  },
+  {
+   "id": 41,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so let's take a look at your x-rays ."
+  },
+  {
+   "id": 42,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay ."
+  },
+  {
+   "id": 43,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . hey dragon , show me the x-rays . so looking at the x-ray , um , of your left knee , uh , it appears to be there's no fractures there right now ."
+  },
+  {
+   "id": 44,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i do n't see any , uh , there's a little bit of , uh , fluid , uh , but there is no , uh , there's no , um , fracture or there's no dislocation . everything else seems to be lined up properly , okay ?"
+  },
+  {
+   "id": 45,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay ."
+  },
+  {
+   "id": 46,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "so in summary after my exam , uh , looking at your knee , uh , on the x-ray and your exam , you have some tenderness over the medial meniscus , so i think you have probably an acute medial meniscus sprain right now or strain ."
+  },
+  {
+   "id": 47,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "uh , at this point , my recommendation would be to put you in a knee brace , uh , and we'll go ahead and have you use some crutches temporarily for the next couple days ."
+  },
+  {
+   "id": 48,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "we'll have you come back in about a week and see how you're doing , and if it's not better , we'll get an mri at that time ."
+  },
+  {
+   "id": 49,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay ."
+  },
+  {
+   "id": 50,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i'm going to recommend we give you some motrin , 800 milligrams . uh , you can take it about every six hours , uh , with food . uh , and we'll give you about a two week supply ."
+  },
+  {
+   "id": 51,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay ."
+  },
+  {
+   "id": 52,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . uh , do you have any questions ?"
+  },
+  {
+   "id": 53,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no , i think i'm good ."
+  },
+  {
+   "id": 54,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . hey , dragon , order the medications and procedures discussed , and finalize the report . okay , come with me and we'll get you checked out ."
+  }
+ ],
+ "redactions": 4,
+ "reference_redacted": {
+  "subjective": "Right knee pain.\n\nMs. [NAME] is a 43-year-old female who presents today for an evaluation of right knee pain. She states she was trying to change a lightbulb on a ladder, and she twisted her knee when she stumbled and caught herself from falling yesterday. She has been applying ice and taking Ibuprofen without relief.\n\nIbuprofen, digoxin.\n\nAtrial fibrillation.\n\nRhinoplasty.",
+  "objective": "Examination of the right knee shows pain with flexion. Tenderness over the medial joint line. No pain in the calf. Pain with valgus stress. Sensation is intact.\n\nX-rays of the right knee show no obvious signs of acute fracture or dislocation. Mild effusion is noted.",
+  "assessment": "Right knee acute medial meniscus sprain.",
+  "plan": "At this point, I discussed the diagnosis and treatment options with the patient. I have recommended a knee brace. She will take Motrin 800 mg, every 6 hours with food, for two weeks. She will use crutches for the next couple of days. She will follow up with me in 1 week for a repeat evaluation. If she is not better at that time, we will obtain an MRI. All questions were answered."
+ },
+ "ok": true,
+ "note": {
+  "subjective": [
+   {
+    "text": "the patient reports feeling pain in her right knee",
+    "evidence": [
+     1,
+     6,
+     7,
+     8,
+     10,
+     11,
+     13,
+     14,
+     15,
+     16
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "the patient mentions using ice on her knee",
+    "evidence": [
+     2,
+     3,
+     4,
+     5,
+     9,
+     12,
+     17,
+     18,
+     19,
+     20
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "the patient states she has been taking ibuprofen to help with pain",
+    "evidence": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "the patient describes a tender area over the medial meniscus of her knee",
+    "evidence": [
+     31,
+     32,
+     33,
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40
+    ],
+    "unsupported": false
+   }
+  ],
+  "objective": [
+   {
+    "text": "to evaluate and diagnose the patient's condition",
+    "evidence": [],
+    "unsupported": false
+   },
+   {
+    "text": "to provide treatment recommendations for the patient",
+    "evidence": [],
+    "unsupported": false
+   }
+  ],
+  "assessment": [
+   {
+    "text": "subjective: what the patient reports",
+    "evidence": [],
+    "unsupported": false
+   },
+   {
+    "text": "objective: diagnoses or clinical impressions",
+    "evidence": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "unsupported": false
+   }
+  ],
+  "plan": [
+   {
+    "text": "evaluate and diagnose the patient's condition",
+    "evidence": [],
+    "unsupported": false
+   },
+   {
+    "text": "provide treatment recommendations for the patient",
+    "evidence": [],
+    "unsupported": false
+   }
+  ]
+ },
+ "attempts": 1,
+ "error": null,
+ "duration_s": 71.9
+}

@@ -1,0 +1,448 @@
+{
+ "model": "qwen2.5:1.5b",
+ "encounter_id": "D2N074",
+ "n_segments": 55,
+ "segments": [
+  {
+   "id": 1,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "patient , [NAME] . date of birth [ID] . please use my neuro consult template . this is a 52-year-old male with dia- newly diagnosed pituitary lesion . the patient is seen in consultation at the request of dr. [NAME] for possible surgical intervention . mr ."
+  },
+  {
+   "id": 2,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "ward presented to his primary care provider , dr. [NAME] , on 3/1/21 complaining of worsening headaches over the past few months . he denied any trouble with headaches in the past . his past clinical history is unremarkable ."
+  },
+  {
+   "id": 3,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "worked out for worsening headaches was initiated with brain mri and serology where pituitary lesion was incidentally discovered . i personally reviewed the labs dated 3/3/21 including cbc , unes , uh , coagulation , and crp . all were normal ."
+  },
+  {
+   "id": 4,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "pituitary hormone profile demonstrates a low tsh , all other results were normal . um , i personally reviewed pertinent radiology studies including mri for the brain with contrast from 3/4/21 . the mri reveals a pituitary lesion with elevation and compression of the optic chiasm ."
+  },
+  {
+   "id": 5,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "the ventricles are normal in size and no other abnormalities are lo- are noted ."
+  },
+  {
+   "id": 6,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hello , mr . [NAME] . nice to meet you . i'm dr. [NAME] ."
+  },
+  {
+   "id": 7,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "hi , doc . nice to meet you ."
+  },
+  {
+   "id": 8,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i was just reviewing your records from dr. [NAME] and he's referred you because the workup for headaches revealed a mass on your pituitary gland . i did review your mri images and you have a significant mass there ."
+  },
+  {
+   "id": 9,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "can you tell me about the issues you've been experiencing ?"
+  },
+  {
+   "id": 10,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah sure . so i'm really getting fed up with these headaches . i've been trying my best to deal with them but they've been going on for months now and i'm really struggling ."
+  },
+  {
+   "id": 11,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "where are the headaches located and how would you describe that pain ?"
+  },
+  {
+   "id": 12,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "located behind my eyes . it's like a dull nagging ache ."
+  },
+  {
+   "id": 13,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . was the onset gradual or sudden ?"
+  },
+  {
+   "id": 14,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "well it started about three months ago . and they've been getting worse over time . at first it was like three out of 10 severity , and it just gradually worsened . and now it's about six out of 10 severity ."
+  },
+  {
+   "id": 15,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "the headaches do tend to be worse in the morning and it feels like a dull ache behind the eyes . they last a few hours at a time , nothing makes them better or worse ."
+  },
+  {
+   "id": 16,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . can you tell me if the pain radiates , or if you have any other symptoms ? specifically feeling sick , fever , rashes , neck stiffness , numbness , weakness , passing out ?"
+  },
+  {
+   "id": 17,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no . i have n't been sick or felt sick . ca n't recall a fever or any kind of rash . no- no neck issues , no numbness , no tingling . and i've never passed out in my life ."
+  },
+  {
+   "id": 18,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "but , um , for some reason recently i seem to be bumping into door frames ."
+  },
+  {
+   "id": 19,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . have you noticed any change in your vision or with your balance ?"
+  },
+  {
+   "id": 20,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no i do n't think so . my eyes were checked in the fall ."
+  },
+  {
+   "id": 21,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . let's see , do you have any other medical problems that you take medicine for ?"
+  },
+  {
+   "id": 22,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no i do n't have any medical problems and i do n't take any medicines . i tried tylenol a few times for the headaches but it did n't work , so i stopped ."
+  },
+  {
+   "id": 23,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "i see . anyone in your family have any history of diseases ?"
+  },
+  {
+   "id": 24,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i was adopted so i really have no idea ."
+  },
+  {
+   "id": 25,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . um , what kind of work do you do ? and are you married ?"
+  },
+  {
+   "id": 26,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i work as a computer programmer and i've been married for 25 years . we just bought a small house ."
+  },
+  {
+   "id": 27,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "that's nice . um , do you drink any alcohol , smoke , or use recreational drugs ?"
+  },
+  {
+   "id": 28,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "nope . i do n't do any of those and never have ."
+  },
+  {
+   "id": 29,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . um , well let me take a good look at you . um , now you'll hear me calling out some details as i perform the examination ."
+  },
+  {
+   "id": 30,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "these will be noted for me in your record and i'll be happy to answer any questions you have once we're done ."
+  },
+  {
+   "id": 31,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "sounds good , doc ."
+  },
+  {
+   "id": 32,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right . the patient is alert , oriented to time , place , and person . affect is appropriate and speech is fluent . cranial nerve examination is grossly intact . no focal , motor , or sensory deficit in the upper or lower extremities ."
+  },
+  {
+   "id": 33,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "visual acuity and eye movements are normal . pupils are equal and reactive . visual field testing reveals bitemporal hemianopia . and color vision is normal ."
+  },
+  {
+   "id": 34,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "all right , mr. [NAME] . i'm going to review these pictures from the mri with you ."
+  },
+  {
+   "id": 35,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "um , now this appears to be a benign pituitary adenoma , but there's no way to be sure without sending the removed adenoma to pathology to make the diagnosis , which we will do . um , here you can see it's a well defined mass ."
+  },
+  {
+   "id": 36,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "and it's pressing right here on what we call the optic chiasm . and today when i was having you look at my fingers , you could n't see them off to the sides , that's what we call bitemporal hemianopia ."
+  },
+  {
+   "id": 37,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "and explains why you have been bumping into door frames ."
+  },
+  {
+   "id": 38,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah i never noticed that i could n't see out of the side until you did that test , and you closed one eye with both eyes . i really could n't tell ."
+  },
+  {
+   "id": 39,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "no because you're having this vision loss from the mass compressing the optic chiasm , the only option we have is to do surgery ."
+  },
+  {
+   "id": 40,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay , i understand . do you think i'll regain my vision ?"
+  },
+  {
+   "id": 41,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "well there's no guarantees , but it is a possibility . i'm gon na refer you to the eye doctor for a full exam and they'll do what's called visual field test . this will map our your peripheral vision or side vision prior to surgery ."
+  },
+  {
+   "id": 42,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "and we can monitor after surgery to see if your vision is improving ."
+  },
+  {
+   "id": 43,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "all right ."
+  },
+  {
+   "id": 44,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "and let's discuss the surgery a little more . um , we would do what's called a transsphenoidal approach to do the surgery . this is minimally invasive and we go through the sphenoid sinus . there are some risks i have to inform you of ."
+  },
+  {
+   "id": 45,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "uh , risk of anesthesia including but not limited to the risk of heart attack , stroke , and death ."
+  },
+  {
+   "id": 46,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "risk of surgery include infection , need for further surgery , wound issues such as spinal fluid leak or infection , uh , which may require long , prolonged hospitalization or additional procedure ."
+  },
+  {
+   "id": 47,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "uh , seizure , stroke , permanent numbness , weakness , difficulty speaking , or even death ."
+  },
+  {
+   "id": 48,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "well i guess we have to do it regardless ."
+  },
+  {
+   "id": 49,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay . so i will have you see our surgery scheduler , [NAME] , on the way out to get you set up . we will get this scheduled fairly quickly so i do n't want you to be alarmed ."
+  },
+  {
+   "id": 50,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "um , she'll also get you set up today or tomorrow to have the visual field test and you may not be able to see the eye doctor until after surgery . but we have the pre-surgery visual field test for comparison after surgery ."
+  },
+  {
+   "id": 51,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay . i look forward to these headaches going away . i never thought it could be something like this going on ."
+  },
+  {
+   "id": 52,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah . come this way , we'll get your things lined up . please call if you think of any questions ."
+  },
+  {
+   "id": 53,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "thanks , doctor ."
+  },
+  {
+   "id": 54,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "diagnosis will be pituitary adenoma . mr . [NAME] is a very pleasant 52-year-old male who has benign appearing pituitary adenoma , incidentally discovered during workup for worsening headaches ."
+  },
+  {
+   "id": 55,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "he is symptomatic with clinical and radiographical evidence of optic chiasmal compression , therefor surgical intervention to excise and decompress the pituitary fossa is indicated . end of note ."
+  }
+ ],
+ "redactions": 10,
+ "reference_redacted": {
+  "subjective": "Pituitary lesion.\n\n[NAME] is a 52-year-old male with a pituitary lesion. The patient is seen in consultation at the request of Dr. [NAME] for possible surgical intervention.\n\nThe patient presented to his primary care provider, Dr. [NAME], on 03/01/2021 complaining of worsening headaches over the past few months. He denied any trouble with headaches in the past. Further work up of headaches with MRI of the brain revealed the pituitary lesion.\n\nMr. [NAME] reports headaches started about 3 months ago, at which point they were around 3 out of 10 in severity. They have gradually worsened over time and now he rates them at about 6/10. The headaches do tend to be worse in the morning and feel like a dull ache behind the eyes. They tend to last a few hours at a time, and nothing makes them particularly worse or better. Tylenol failed to improve headaches.\n\nThe patient endorses that recently he has been bumping into door frames, but no obvious problems with his balance or vision. He denies any recent sickness or feeling sick and negative for fever, rash, paresthesia, weakness, neck stiffness, or syncope.\n\nMedical\nNewly diagnosed pituitary lesion.\n\nNo known family history; adopted.\n\nEmployment Status: Works as a computer programmer.\nMarital [NAME]: Married for 25 years.\nLiving Arrangement: Lives with wife, recently purchased a new house.\nAlcohol Use: None.\nTobacco Use: Non-smoker.\nRecreational Drugs: None.",
+  "objective": "Neurological\nPatient alert, oriented to person, place, and time, affect appropriate and speech fluent. Cranial nerve examination grossly intact. No focal motor or sensory deficit in the upper or lower extremities.\n\nEyes\nVisual acuity and eye movements are normal. Pupils are equal and reactive. Visual field testing reveals bitemporal hemianopia. Color vision is normal.\n\nLabs reviewed, 03/03/2021: CBC, U&Es, coagulation, and CRP are all normal. Pituitary hormone profile demonstrates a low TSH, all other results were normal.\n\nIndependent review and interpretation of MRI brain, 03/04/2021: The MRI reveals a pituitary lesion with elevation and compression of the optic chiasm. The ventricles are normal in size and no other abnormalities are noted.",
+  "assessment": "\u2022 Pituitary adenoma\n\u2022 Bitemporal hemianopia\nMr. [NAME] is a very pleasant 52-year-old male who has a benign appearing pituitary adenoma discovered on work up for worsening headaches. There is clinical and radiographical evidence of optic chiasmal compression, examination today revealed a bitemporal hemianopia. Radiographically this appears to be a benign pituitary adenoma but that there was no way to be sure without a pathological diagnosis. Surgical intervention to excise and decompress the pituitary fossa is indicated given optic chiasmal compression.",
+  "plan": "Pituitary adenoma.\nWe discussed the general indications for surgical intervention. The risks, benefits to trans-sphenoidal resection were explained to the patient. The risks of anesthesia including but not limited to the risks of heart attack, stroke, and death. The risks of surgery including infection, need for further surgery, wound issues (such as spinal fluid leak or infection) which may require prolonged hospitalization or additional procedure, seizure, stroke, permanent numbness, weakness, difficulty speaking, or death. The patient voiced understanding and wishes to proceed with trans-sphenoidal resection of the adenoma.\n\nBitemporal hemianopia.\nWe will have the patient scheduled this week to have visual field testing with ophthalmology. The preoperative visual field will serve as baseline for comparison of postoperative visual field testing to monitor for improvement in the bitemporal hemianopia. Additionally, we discussed that unfortunately no guarantees could be given that his vision would return.\n\n\u2022 Refer to ophthalmology for baseline visual field testing.\n\u2022 Schedule trans-sphenoidal resection of pituitary adenoma."
+ },
+ "ok": true,
+ "note": {
+  "subjective": [
+   {
+    "text": "The patient reports getting worse headaches over months.",
+    "evidence": [
+     1,
+     7,
+     8
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "Patient denies any symptoms such as fever or rash since adoption.",
+    "evidence": [
+     16,
+     19,
+     20,
+     21,
+     22
+    ],
+    "unsupported": false
+   }
+  ],
+  "objective": [],
+  "assessment": [
+   {
+    "text": "Pituitary adenoma causing optic chiasm compression leading to visual field loss.",
+    "evidence": [
+     34,
+     35,
+     36,
+     37,
+     38,
+     40,
+     41,
+     42,
+     43,
+     44
+    ],
+    "unsupported": false
+   }
+  ],
+  "plan": []
+ },
+ "attempts": 1,
+ "error": null,
+ "duration_s": 154.0,
+ "infra_error": false
+}

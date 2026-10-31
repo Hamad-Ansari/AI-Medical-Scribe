@@ -1,0 +1,380 @@
+{
+ "model": "qwen2.5:0.5b",
+ "encounter_id": "D2N079",
+ "n_segments": 40,
+ "segments": [
+  {
+   "id": 1,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "hi [NAME] how're you today"
+  },
+  {
+   "id": 2,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i'm doing okay aside from this left shoulder pain that i've been having"
+  },
+  {
+   "id": 3,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay and how long have you had this pain"
+  },
+  {
+   "id": 4,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "about i want to say a few weeks i think it's been about three weeks now"
+  },
+  {
+   "id": 5,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay and do you remember what you were doing when the pain started"
+  },
+  {
+   "id": 6,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "honestly i've been trying to recall if i had any specific injury and i ca n't think of that"
+  },
+  {
+   "id": 7,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay"
+  },
+  {
+   "id": 8,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "of anything the only thing i can think of is that i you know i am active and we've just been doing a lot of work in our basement so if i do n't know if i did something while doing that"
+  },
+  {
+   "id": 9,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay alright tell me have you ever had pain in that shoulder before"
+  },
+  {
+   "id": 10,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "you know i i'm really active and so i i will get some aches and pains here and there but nothing that tylenol ca n't take care of"
+  },
+  {
+   "id": 11,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay good but now are you able to move your arm"
+  },
+  {
+   "id": 12,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "you know i have trouble when i'm trying to reach for something or lift any objects and i do n't even try to reach it for anything over my head because then it'll really hurt"
+  },
+  {
+   "id": 13,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay alright and and now are you having the pain all the time or does it come and go"
+  },
+  {
+   "id": 14,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "the pain is always there and then it gets worse like if i try to put any pressure on it it gets worse so if i'm laying at night if i try to even lay on that shoulder it's unbearable"
+  },
+  {
+   "id": 15,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay and then tell me what have you taken for your pain"
+  },
+  {
+   "id": 16,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "i've been taking two extra strength tylenol every six to eight hours"
+  },
+  {
+   "id": 17,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "alright and and did that help"
+  },
+  {
+   "id": 18,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "it does take the edge off but i still have some pain"
+  },
+  {
+   "id": 19,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay well i'm sorry to hear that you know you know renovating the basement it can be quite a task and it can take a toll on you"
+  },
+  {
+   "id": 20,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah i mean it's been fun but yeah i think it really did take a toll on me"
+  },
+  {
+   "id": 21,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "yeah what what are you doing with your basement are you are you doing like a a man cave or"
+  },
+  {
+   "id": 22,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "yeah yeah that's exactly right"
+  },
+  {
+   "id": 23,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "that is awesome great well that sounds like fun i hope you get to set it up just the way you you would like for your man cave to be so congratulations to you there so tell me have you experienced any kind of numbness in your arms or in your hands"
+  },
+  {
+   "id": 24,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no no numbness or tingling"
+  },
+  {
+   "id": 25,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay alright so let's just go ahead and do a quick physical exam on you here i did review your vitals everything here looks good now lem me take a look at your shoulder alright now on your left shoulder exam you have limited active and passive range of motion and how does that feel here"
+  },
+  {
+   "id": 26,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "that hurts"
+  },
+  {
+   "id": 27,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay sorry there is tenderness of the greater tuberosity of the humerus but there is no tenderness at the sternoclavicular or acromioclavicular joints you have good hand grips alright and then now on your neurovascular exam of your left arm your capillary refill is less than three seconds and your sensation is intact to light touch alright so what does that all mean well firstly lem me go ahead and take a look at your results of your shoulder x-ray here now i reviewed the results and there are no fractures so that's good so let's go ahead and talk about my assessment and plan here wayne so for your problem of left shoulder pain your symptoms are most likely due to a rotator cuff tendinopathy so this means that you injured the tendons of the muscles that help make up your shoulder muscles so i will be ordering an mri for your left shoulder to be sure that there is nothing else going on with your shoulder okay"
+  },
+  {
+   "id": 28,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay"
+  },
+  {
+   "id": 29,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "now i'm also going to refer you to physical therapy for approximately six to eight weeks and during that time you may also continue to take tylenol now if your symptoms do n't improve we can consider a steroid injection for your shoulder which can provide some relief do you have any questions about your plan at all"
+  },
+  {
+   "id": 30,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "so do you think this pain will ever go away"
+  },
+  {
+   "id": 31,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "now well many patients are very successful with the physical therapy those will those help strengthen you know they do a lot of strengthening exercises with you to help strengthen you know your muscles so that it's not your movements not always relying on those joints predominantly so we're gon na go ahead and start with that and then see how you do okay"
+  },
+  {
+   "id": 32,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay okay"
+  },
+  {
+   "id": 33,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "alright okay well do you have any other questions for me"
+  },
+  {
+   "id": 34,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "no i think that's it"
+  },
+  {
+   "id": 35,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "okay well i'm gon na have the nurse check you out and she's also gon na give you some educational materials on the physical therapy and what to expect and and then go ahead and schedule a follow-up visit with me as well after you you do your physical therapy okay"
+  },
+  {
+   "id": 36,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay"
+  },
+  {
+   "id": 37,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "alright well have a good day"
+  },
+  {
+   "id": 38,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay you too"
+  },
+  {
+   "id": 39,
+   "start": null,
+   "end": null,
+   "speaker": "doctor",
+   "text": "thanks"
+  },
+  {
+   "id": 40,
+   "start": null,
+   "end": null,
+   "speaker": "patient",
+   "text": "okay bye"
+  }
+ ],
+ "redactions": 1,
+ "reference_redacted": {
+  "subjective": "Left shoulder pain.\n\n[NAME] is a pleasant 66-year-old male who presents to the clinic today for the evaluation of left shoulder pain. The onset of his pain began 3 weeks ago. He denies any specific injury. The patient states he is active and has been renovating his basement. He reports a history of intermittent aches and pains in his left shoulder. He has difficulty reaching for or lifting any objects. He adds that he avoids reaching overhead secondary to the pain. The patient describes his pain as constant and worsening. He notes his pain is unbearable when lying on his left shoulder at night. He denies any numbness or tingling in the bilateral upper extremities. He has been taking 2 Extra Strength Tylenol every 6 to 8 hours, which provides some relief.\n\nMusculoskeletal: Reports left shoulder pain. Neurological: Denies numbness or tingling in the bilateral upper extremities.",
+  "objective": "All vital signs are within the normal limits.\n\nCapillary refill is less than 3 seconds.\n\nNEURO: Normal sensation. Sensation is intact to light touch in the left upper extremity.\nMSK: Examination of the left shoulder: Limited active and passive ROM. Tenderness over the greater tuberosity of the humerus. No tenderness at the sternoclavicular or acromioclavicular joints. Good hand grip.\n\nX-rays of the left shoulder were obtained and are reviewed today. These reveal there are no fractures.",
+  "assessment": "Left shoulder pain, most likely due to rotator cuff tendinopathy.",
+  "plan": "After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with the patient in regard to his current symptoms. I have explained to him that his symptoms are most likely due to rotator cuff tendinopathy. I recommend obtaining an MRI of the left shoulder to further assess the rotator cuff. I will also refer him to formal physical therapy to strengthen his left shoulder for approximately 6 to 8 weeks. The patient was provided with educational materials regarding expectations related to his physical therapy. He may continue to take Tylenol as needed. If his symptoms do not improve with physical therapy, we will consider a steroid injection to the left shoulder. All questions were answered.\n\nThe patient will follow up with me after he has completed his course of physical therapy."
+ },
+ "ok": true,
+ "note": {
+  "subjective": [
+   {
+    "text": "the patient reports having left shoulder pain that has been ongoing since about three weeks ago",
+    "evidence": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "the patient mentions difficulty reaching objects or lifting heavy items due to pain in the shoulder",
+    "evidence": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "unsupported": true
+   }
+  ],
+  "objective": [
+   {
+    "text": "the patient is active and works in their basement",
+    "evidence": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "the patient takes two extra strength Tylenol every six hours",
+    "evidence": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "unsupported": false
+   },
+   {
+    "text": "the patient experiences limited arm movement and discomfort during physical therapy exercises",
+    "evidence": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "unsupported": false
+   }
+  ],
+  "assessment": [],
+  "plan": []
+ },
+ "attempts": 1,
+ "error": null,
+ "duration_s": 55.7
+}
